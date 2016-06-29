@@ -23,4 +23,4 @@ In order to provide students with continued pathways for growth, we suggest usin
 
 ---
 
-Next up are the resources we provide for this [class/workshop topic](04-resources.md).
+Next up are the resources we provide for this [class/workshop topic](./04-resources.md).
