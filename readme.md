@@ -1,33 +1,59 @@
-### Folder Navigation
-Each lesson folder is organized in the following pattern:
+# ![](https://ga-dash.s3.amazonaws.com/production/assets/logo-9f88ae6c9c3871690e33280fcf557f33.png) X CW Materials
 
-- **Lesson**: includes the root lesson readme
-  - _Starter Code_: __________________ for demos, as well as questions for guided and independent practice
-  - _Solution Code_: _________________ with answers to questions from guided and independent practice
-  - _Assets_
-    - **Dataset**: Includes or links to the dataset(s) used during demo, guided, and independent practice
-    - **Images**: Includes or links to any images referenced
-    - **Slides**: Includes and links to the baseline lesson deck for you to modify
+Welcome to General Assembly's X Class/Workshop
+
+This repository/folder contains all the materials General Assembly supplies for this workshop.
+
+## Value Proposition
+
+<!--  Taken from Confluence -->
+
+Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+
+#### Students Will Learn How To:
+
+<!-- a bulleted list of learning goals from Confluence -->
+
+- Goal 1
+- Goal 2
+- Goal 3
+
+---
+
+Included in this repository:
+
+1. **Onboarding Materials** - Background context & instructions for how to make use of our materials.
+
+2. **Teaching Materials** - Lesson plan, activities & assessment, deck, and handout.
+
+<!-- 3. [**Contributing Guidelines**](contributing-guidelines.md) - information about how to submit materials you create, adapt, or fix back to the global General Assembly team -->
 
 
-## Lesson Structure
+## To Get Started
 
-Lesson plans are organized as follows:
+If this is your first time teaching this workshop, welcome!! Please take *15 minutes* to read through the following onboarding materials to help get an understanding of your responsibilities as an instructor and gain some background context on this course.
 
-1. **YAML Frontmatter**: Meta information including the duration of the lesson/lab, the author's name and location, and the most relevant curriculcum standard tied to this lesson
-2. **Learning Objectives**: What students should be able to do after lesson completion
-3. **Student Prework**: What students should already know how to do before this lesson
-4. **Instructor Prep**: Specific instructions for the instructor
-5. **Lesson Guide**: High level timing overview of lesson structure
-6. **Lesson Content**: Content is divided into modular, adjustable components by topic:
-  - _Opening_: Objectives, QA, Reminders
-  - _Topic - Introduction_: Slide deck supported lecture
-  - _Topic - Demo or Codealong_: Walkthrough
-  - _Topic - Guided Practice_: Short practice activity
-  - _Topic - Independent Practice_: Summative activity with deliverable(s)
-  - _Conclusion_: Lesson & Lab Review, QA, Exit Tickets
-7. **Upcoming Assignments**: Homework or Projects
-8. **Additional Resources**: Links that you should feel free to add to or supplement
+Document                            | Description
+----------------------------------- | ------------------------------------------
+[Background](./01-onboarding/01-background.md) | Who we are and what we offer at General Assembly
+[Materials](./01-onboarding/02-materials.md) | Some context around the materials we provide
+[Roadmap](./01-onboarding/03-roadmap.md) | Prerequisites and suggested follow-up plan
+[Resources](./01-onboarding/04-tools-policies.md) | Description of tools used and relevant policies for this workshop
 
 
-For more detail and examples, check out our [GA lesson template](./templates/readme.md).
+## Contributing
+
+We encourage instructors to fork this repository directly. We hope you'll suggest improvements by submitting issues or pull requests as needed!
+
+Please check out our [contributing guidelines](contributing.md) for more details.
+
+
+## License
+
+The following license applies to this class/workshop and all materials provided.
+
+#### CC
+X
+
+#### GNU
+X
