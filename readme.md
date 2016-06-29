@@ -1,6 +1,6 @@
 # ![](https://ga-dash.s3.amazonaws.com/production/assets/logo-9f88ae6c9c3871690e33280fcf557f33.png) X CW Materials
 
-Welcome to General Assembly's X Class/Workshop
+Welcome to General Assembly's X Workshop
 
 This repository/folder contains all the materials General Assembly supplies for this workshop.
 
