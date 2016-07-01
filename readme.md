@@ -48,12 +48,9 @@ We encourage instructors to fork this repository directly. We hope you'll sugges
 Please check out our [contributing guidelines](contributing.md) for more details.
 
 
-## License
+## Licensing
 
-The following license applies to this class/workshop and all materials provided.
+<!--  remember to replace the placeholder content in curly braces in the GNU license -->
 
-#### CC
-X
-
-#### GNU
-X
+1. All content is licensed under a CC-BY-NC-SA 4.0 license.
+2. All software code is licensed under GNU GPLv3. For commercial use or alternative licensing, please contact legal@ga.co.
