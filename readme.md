@@ -1,8 +1,6 @@
 # ![](https://ga-dash.s3.amazonaws.com/production/assets/logo-9f88ae6c9c3871690e33280fcf557f33.png) Data Science 101
 
-Welcome to General Assembly's Data Science 101.
-
-This repository/folder contains all the materials General Assembly supplies for this workshop.
+Welcome to General Assembly's Data Science 101. This repository/folder contains all the materials General Assembly supplies for this workshop.
 
 ## Value Proposition
 
