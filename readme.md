@@ -20,9 +20,9 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 
 Included in this repository:
 
-1. **Onboarding Materials** - Background context & instructions for how to make use of our materials.
+1. [**Onboarding Materials**](./curriculum/01-onboarding) - Background context & instructions for how to make use of our materials.
 
-2. **Teaching Materials** - Lesson plan, activities & assessment, deck, and handout.
+2. [**Teaching Materials**](./curriculum/02-materials) - Lesson plan, activities & assessment, deck, and handout.
 
 <!-- 3. [**Contributing Guidelines**](contributing-guidelines.md) - information about how to submit materials you create, adapt, or fix back to the global General Assembly team -->
 
