@@ -1,6 +1,6 @@
-# ![](https://ga-dash.s3.amazonaws.com/production/assets/logo-9f88ae6c9c3871690e33280fcf557f33.png) Class/Workshop: Tools & Policies
+# ![](https://ga-dash.s3.amazonaws.com/production/assets/logo-9f88ae6c9c3871690e33280fcf557f33.png) Data Science 101: Tools & Policies
 
-This course teaches students about ____. This field is constantly evolving, and it would be impossible to introduce every tool in one workshop.
+This course teaches students about the fundamentals of data science. This field is constantly evolving, and it would be impossible to introduce every tool in one workshop.
 
 Instead, General Assembly provides a core set of objectives for this workshop, along with guidelines for how to ensure students reach these objectives. As an instructor, you have the opportunity and responsibility to adapt these recommendations to your local context and modify/expand on any of these tools as you see fit.
 
