@@ -1,6 +1,6 @@
-# ![](https://ga-dash.s3.amazonaws.com/production/assets/logo-9f88ae6c9c3871690e33280fcf557f33.png) Class/Workshop: Topic Roadmap
+# ![](https://ga-dash.s3.amazonaws.com/production/assets/logo-9f88ae6c9c3871690e33280fcf557f33.png) Data Science 101: Topic Roadmap
 
-The following information is provided to help contextualize this class/workshop by describing prerequisites and recommendations for future growth.
+The following information is provided to help contextualize this workshop by describing prerequisites and recommendations for future growth.
 
 ---
 
