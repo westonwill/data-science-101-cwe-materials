@@ -23,4 +23,4 @@ In order to provide students with continued pathways for growth, we suggest usin
 
 ---
 
-Next up are the policies we adhere to for this [workshop topic](./04-tools-policies.md).
+Next up are the policies we adhere to for this [workshop topic](./02-tools-policies.md).
