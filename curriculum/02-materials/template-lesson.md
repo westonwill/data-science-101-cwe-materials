@@ -39,7 +39,8 @@ creator:
 | 15 min  | [Demo](#demo2)  | Algorithms in Action  |
 | 20 min  | [Guided Practice](#guided-practice2)  | Thinking Logically  |
 | 20 min  | [Independent Practice](#ind-practice2)  | Data Science Case Study |
-| 5 min  | [Conclusion](#conclusion)
+| 10 min  | [Conclusion](#conclusion) | Review + Recap |
+| 15 min  | [Takeaways](#takeaway) | Learning Plan + Q&A |
 
 ---
 
@@ -140,10 +141,14 @@ Before we dive in, a bit about you!
 
 > Review Topics Covered
 
-#### Learning Plan (10 mins)
+***
 
+<a name="takeaway"></a>
+## Takeways: Learning Plan + Q&A (15 mins)
 
-#### Q&A (5 mins)
+#### What Should You Do Next?
+
+#### Q & A
 
 ***
 
