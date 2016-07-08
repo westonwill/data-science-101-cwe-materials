@@ -2,7 +2,7 @@
 title: Data Science 101
 duration: "1:25"
 creator:
-    name: J Rogel
+    name: J Rogel-Salazar
     city: LDN
 ---
 
@@ -31,25 +31,18 @@ creator:
 |:-:|---|---|
 | 10 min  | [Opening](#opening)  | Greetings + The GA Experience  |
 | 15 min  | [Introduction](#intro1)   | Why Data Science? + What Can Data Science Do For Me? |
-| 15 min  | [Demo](#demo1)  | Let's use Git  |
-| 15 min  | [Demo](#demo2)  | Making and cloning repositories  |
-| 10 min  | [Demo](#demo3)  | Create a pull request on GitHub  |
-| 25 min  | [Independent Practice](#ind-practice)  
+| 15 min  | [Demo](#demo1)  | Visualizing the Data Science Workflow  |
+| 20 min  | [Guided Practice](#guided-practice1)  | Exploring the Data Science Toolkit |
+| 20 min  | [Independent Practice](#ind-practice1)  | Analyze Some Data! |
+| 5-10 min  | BREAK  |   |
+| 15 min  | [Introduction](#intro2)   | What's an Algorithm, Anyway? |
+| 15 min  | [Demo](#demo2)  | Algorithms in Action  |
+| 20 min  | [Guided Practice](#guided-practice2)  | Thinking Logically  |
+| 20 min  | [Independent Practice](#ind-practice2)  | Data Science Case Study |
 | 5 min  | [Conclusion](#conclusion)
 
-
-15 min
-Demo (we do)
-Visualize the Data Science Workflow (tool / process overview)
-15 min
-Guided Practice (we do)
-Review Tool Fundamentals (e.g. command line or Jupyter/Pandas, in context)
-20 min
-Independent Practice (you do)
-Perform Data Analysis on sample CSV file (example of real world data problem solving using analytical techniques)
-
-
 ---
+
 <a name="opening"></a>
 ## Opening (# mins)
 
