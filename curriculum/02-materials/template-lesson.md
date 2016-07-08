@@ -24,135 +24,138 @@ creator:
 ### INSTRUCTOR PREP
 *Before this lesson, instructors will need to:*
 - Review & modify lesson plan & slide deck as needed
+- Write learning objectives & relevant information on board
+
+### WORKSHOP AGENDA
+| TIMING  | TYPE  | TOPIC  |
+|:-:|---|---|
+| 10 min  | [Opening](#opening)  | Greetings + The GA Experience  |
+| 15 min  | [Introduction](#intro1)   | Why Data Science? + What Can Data Science Do For Me? |
+| 15 min  | [Demo](#demo1)  | Let's use Git  |
+| 15 min  | [Demo](#demo2)  | Making and cloning repositories  |
+| 10 min  | [Demo](#demo3)  | Create a pull request on GitHub  |
+| 25 min  | [Independent Practice](#ind-practice)  
+| 5 min  | [Conclusion](#conclusion)
+
+
+15 min
+Demo (we do)
+Visualize the Data Science Workflow (tool / process overview)
+15 min
+Guided Practice (we do)
+Review Tool Fundamentals (e.g. command line or Jupyter/Pandas, in context)
+20 min
+Independent Practice (you do)
+Perform Data Analysis on sample CSV file (example of real world data problem solving using analytical techniques)
+
 
 ---
 <a name="opening"></a>
 ## Opening (# mins)
-- Review pre-work, projects, or exit ticket, if applicable
-- Review current lesson objectives
-- Reference general course content or topics (e.g. code or concepts that have been used across multiple lessons)
-- Include Hook / Real-world Relevance (why the content from this lesson is useful or important)
 
-> Instructor Note: Use instructor notes to talk directly to instructors. Otherwise, write out lesson directions and materials in a student-facing voice.
+> Note: Let people know where restrooms and kitchen are located, as needed.
 
-Check: Ask students to define, explain, or recall any **general** prior concepts or tools.
+#### Instructor Bio
 
-***
+Welcome to Data Science 101! Here's a bit about me:
+> Provide your name and brief bio. your background in data science, any experience you've had with GA, and one "fun fact" about yourself.
 
-<a name="introduction"></a>
-## Introduction: Topic (# mins)
+#### Introduce Yourselves
 
-> Instructor Note: Discuss topic and explain by dividing parts into sections. Ask students to define, explain, or recall any **specific** elements relating to the current topic, when applicable.
+Before we dive in, a bit about you!
 
-Lorem ipsum dolor sit amet, consectetur adipisicing elit. Harum fugiat autem voluptate officia voluptatum tempore repudiandae illum libero. Dolor aliquam minima sit velit, quis quisquam delectus explicabo nam id facilis.
+> Have students introduce themselves: name, what brings them to GA (ask for their current career & any specific goals), & one "fun fact".
 
-```html
-<!DOCTYPE html>
-<html>
-  <head>
-    <title>
-      Example
-    </title>
-  </head>
-  <body>
-    <h1>
-      Example Page
-    </h1>
-    <p>
-      This is an example page.
-    </p>
-  </body>
-</html>
-```
-![DOM Tree](http://www.computerhope.com/jargon/d/dom1.jpg)
+> **Example Exercise**: *Have students write these on google doc or google poll. Instructor can briefly demonstrate data science workflow by categorizing data, merging into CSV file,  pulling out features, etc.*
 
-#### Use non-section headings to divide content
-Lorem ipsum dolor sit amet, consectetur adipisicing elit. Autem laboriosam pariatur ab cum temporibus, velit expedita? Pariatur illum, iusto animi iste consectetur quam voluptatem provident! Velit molestias doloremque error harum.
 
-**Check:** Insert 1-2 guiding questions to ensure students are comprehending the material.
+#### Our Expectations
+
+- You're ready to take charge of your learning experience.
+- You've installed Anaconda & Python 2.7.
+- You're curious and excited about data science!
+
+#### Our Objectives
+
+> Note: Write workshop objectives on board before class
+
+- Why this topic matters (general relevance)
+- Why this topic rocks (interest/hook)
+
+> Note: Tailor these 2 points to student interests. Relate to their career info & goals students described during attendance.
+
 
 ***
 
-<a name="demo"></a>
-## Demo: Topic (# mins)
-Walk through a Demo or demonstration of something.
+<a name="intro1"></a>
+## Introduction: Data Science (15 mins)
 
-Lorem ipsum dolor sit amet, consectetur adipisicing elit. Facere dignissimos totam deleniti architecto porro, nisi. Laudantium repellat animi vero. Illo expedita deserunt officia iure quidem saepe culpa, aut, laborum consequatur.
 
-```ruby
-def lorem
-  return 'some stuff'
-end
-```
-
-Lorem ipsum dolor sit amet, consectetur adipisicing elit. Doloribus eligendi nemo eius quo, soluta maxime provident temporibus aperiam eveniet eum. Non, soluta error veritatis pariatur praesentium beatae reprehenderit, numquam quaerat. Lorem ipsum dolor sit amet.
-
-Consectetur adipisicing elit. Facere dignissimos totam deleniti architecto porro, nisi. Laudantium repellat animi vero. Illo expedita deserunt officia iure quidem saepe culpa, aut, laborum consequatur.
-
-```ruby
-def another_lorem
-  this = some_method(0+2)
-  return this.to_json
-end
-```
-
-**Check:** By this point, students should be able to write out or code their own methods / functions / arguments / etc.
 
 ***
 
-<a name="guided-practice"></a>
-## Guided Practice: Topic (# mins)
-Solve a problem or apply this topic to a real world scenario. Solving or understanding this scenario should require the use of the current topic (in addition to any prior topics).
+<a name="demo1"></a>
+## Demo: Data Science Workflow (15 mins)
 
-Lorem ipsum dolor sit amet, consectetur adipisicing elit. Facere dignissimos totam deleniti architecto porro, nisi. Laudantium repellat animi vero. Illo expedita deserunt officia iure quidem saepe culpa, aut, laborum consequatur.
-
-```ruby
-def lorem
-  return 'some stuff'
-end
-```
-
-Lorem ipsum dolor sit amet, consectetur adipisicing elit. Doloribus eligendi nemo eius quo, soluta maxime provident temporibus aperiam eveniet eum. Non, soluta error veritatis pariatur praesentium beatae reprehenderit, numquam quaerat. Lorem ipsum dolor sit amet.
-
-Consectetur adipisicing elit. Facere dignissimos totam deleniti architecto porro, nisi. Laudantium repellat animi vero. Illo expedita deserunt officia iure quidem saepe culpa, aut, laborum consequatur.
-
-```ruby
-def another_lorem
-  this = some_method(0+2)
-  return this.to_json
-end
-```
-**Check:** Were students able to successfully solve the problem or complete the task?
 
 ***
 
-<a name="ind-practice"></a>
-## Independent Practice: Topic (# minutes)
-Use the lesson topic/skill to create a deliverable that meets certain criteria.
+<a name="guided-practice1"></a>
+## Guided Practice: Tools of the Trade (15 mins)
 
-> Instructor Note: This can be a pair programming activity or done indpendently.
+***
 
-Here is a prompt for the deliverable. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Reiciendis magnam voluptas, modi at harum minus voluptate qui consequatur porro amet deserunt quibusdam nihil rerum fugit, accusantium omnis totam! Vitae, corrupti.
+<a name="ind-practice1"></a>
+## Independent Practice: Working with Data (20 mins)
 
-**Check:** Were students able to create the desired deliverable(s)? Did it meet all necessary requirements / constraints?
+***
+
+<BREAK>
+
+***
+
+<a name="intro2"></a>
+## Introduction: Predicting Data with Algorithms (15 mins)
+
+
+
+***
+
+<a name="demo2"></a>
+## Demo: Algorithms in Action (15 mins)
+
+
+
+***
+
+<a name="guided-practice2"></a>
+## Guided Practice: Thinking Logically (20 mins)
+
+
+***
+
+<a name="ind-practice2"></a>
+## Independent Practice: Data Science Case Study (20 mins)
+
 
 ***
 
 <a name="conclusion"></a>
-## Conclusion (# mins)
-- Review independent practice deliverable(s)
-- Recap topic(s) covered in today's lesson
-- Cover homework and/or upcoming tasks
+## Conclusion: Review + Recap Topics (10 mins)
+
+> Review Deliverables
+
+> Review Topics Covered
+
+#### Learning Plan
+
+
+#### Q&A
 
 ***
 
-### BEFORE NEXT CLASS
-|   |   |
-|---|---|
-| **HOMEWORK** | Example Assignment [#](Instructions)  |
-| **UPCOMING PROJECTS**  | Project Assignment: Title [#](Instructions)  |
+## ADDITIONAL RESOURCES
 
-### ADDITIONAL RESOURCES
-- Add your own resources.
-- Go crazy.
-- So much room for bullets!
+- [a](#)
+- [b](#)
+- [c](#)
