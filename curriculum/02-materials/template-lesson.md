@@ -30,7 +30,7 @@ creator:
 | TIMING  | TYPE  | TOPIC  |
 |:-:|---|---|
 | 10 min  | [Opening](#opening)  | Greetings + The GA Experience  |
-| 15 min  | [Introduction](#intro1)   | Why Data Science? + What Can Data Science Do For Me? |
+| 15 min  | [Introduction](#intro1)   | Why Data Science? What Can Data Science Do For Me? |
 | 15 min  | [Demo](#demo1)  | Visualizing the Data Science Workflow  |
 | 20 min  | [Guided Practice](#guided-practice1)  | Exploring the Data Science Toolkit |
 | 20 min  | [Independent Practice](#ind-practice1)  | Analyze Some Data! |
@@ -40,7 +40,7 @@ creator:
 | 20 min  | [Guided Practice](#guided-practice2)  | Thinking Logically  |
 | 20 min  | [Independent Practice](#ind-practice2)  | Data Science Case Study |
 | 10 min  | [Conclusion](#conclusion) | Review + Recap |
-| 15 min  | [Takeaways](#takeaway) | Learning Plan + Q&A |
+| 10 min  | [Takeaways](#takeaway) | Learning Plan + Q&A |
 
 ---
 
