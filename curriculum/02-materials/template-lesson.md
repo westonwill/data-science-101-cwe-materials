@@ -18,8 +18,8 @@ creator:
 
 ### STUDENT PRE-WORK
 *Before this lesson, you should already be able to:*
-- Bring a laptop with Python 2.7 and Anaconda installed.
-- If you are using a PC, install git-bash terminal.
+- Bring a laptop with [Python 2.7](#) and [Anaconda](#) installed.
+- If you are using a PC, install [git-bash terminal](#).
 
 ### INSTRUCTOR PREP
 *Before this lesson, instructors will need to:*
