@@ -1,73 +1,29 @@
 ---
-title: Title of the Lesson
+title: Data Science 101
 duration: "1:25"
 creator:
-    name: John Doe
-    city: NYC
+    name: J Rogel
+    city: LDN
 ---
 
-> #### *Guiding Questions When Using This Template*
->
-> - [ ] Are the learning objectives measurable?
->   - [ ] Are there between 2-5 learning objectives?*
->   - [ ] Are the learning objectives specific enough?
->   - [ ] Do these learning objectives help students work toward the unit project?
->
->
-> - [ ] How will this lesson culminate? (final activity + conclusion; should be 15-25 mins)
->
->
-> - [ ] Are activities spaced out with enough time for each?
->   - [ ] Did you include knowledge "Checks" or activities at the end of every component to test comprehension?
->   - [ ] If reusing an existing resource, is there enough content for a given length of time?
->
->
-> - [ ] Did you provide guidance for both students & instructors?
->   - [ ] What will instructors have to do to prepare for this lesson?
->   - [ ] What will students have to do to prepare for this lesson?
->   - [ ] What should students do to review or prepare for the next lesson?
->
-> #### *How to Use This Template*
-> * Static Components: Reserve roughly 5 min for Opening, 5 unscheduled "buffer" mins for overrun, & at least 5 min for Conclusion (end of lesson review).
->
->
-> * Modular Components: The units of instruction are: Intro, Demo, Guided-Practice, & Independent-Practice. These can be cycled or intermixed in various orders, depending on the topic / content.
-
-> #### *Components of the lesson plan*
-
-> - Opening: this only happens once; used to introduce the agenda, review material, and provide a motivating example / the problem we're trying to solve with this skill/content
-> - Introduction: this is a section dedicated to introducing and contextualizing new vocabulary, ideas, and code syntax that will be practiced in later sections
-> - Demo: an instructor-led session demonstrating proper techniques or syntax examples
-> - Guided Practice: interactive instructor by which the instructor engages with and probes students for answers to guide the discussion or activity
-> - Independent Practice: a block of time where students are able to practice what they've learned; the instructor provides directions and the students use the directions to complete an exercise
-> - Conclusion: a time to sum up the lesson, review the answers to a final independent practice, and/or pose discussion questions
-> - Check: a moment to check to understand students are following; it can be done with a question about content, a general "How comfortable are you with this?", or the instructor can check the output of students code to ensure they've completed the assignment properly
-
-> NOTE: the lesson you create does not have to follow a progression of Introduction > Demo > Guided Practice > Independent Practice - a combination of these is often ideal - but a lesson must always begin with an Opening and end wth a Conclusion.
-
-
-
----
-# ![](https://ga-dash.s3.amazonaws.com/production/assets/logo-9f88ae6c9c3871690e33280fcf557f33.png) Lesson Title
-Week # | Lesson #
+# ![](https://ga-dash.s3.amazonaws.com/production/assets/logo-9f88ae6c9c3871690e33280fcf557f33.png) Data Science 101
 
 ### LEARNING OBJECTIVES
 *After this lesson, you will be able to:*
-- Describe some concept
-- Explain how to do something
-- Do or build something
+- Explain the field of data science, defining common roles, benefits, and trends.
+- Explore popular tools and resources to visualize and analyze data.
+- Recognize types of problems that can be solved by data scientists.
+- Apply the data science workflow and provide recommendations.
+- Create a custom learning plan to help you continue to build fundamental data science skills after this workshop.
 
 ### STUDENT PRE-WORK
 *Before this lesson, you should already be able to:*
-- Describe some concept
-- Explain how to do something
-- Do or build something
+- Bring a laptop with Python 2.7 and Anaconda installed.
+- If you are using a PC, install git-bash terminal.
 
 ### INSTRUCTOR PREP
 *Before this lesson, instructors will need to:*
-- Gather materials needed for class
-- Complete Prep work required
-- Prepare any specific instructions
+- Review & modify lesson plan & slide deck as needed
 
 ---
 <a name="opening"></a>
