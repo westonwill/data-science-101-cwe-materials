@@ -108,7 +108,7 @@ Before we dive in, a bit about you!
 ***
 
 <a name="intro2"></a>
-## Introduction: Predicting Data with Algorithms (15 mins)
+## Introduction: What's an Algorithm, Anyway? (15 mins)
 
 
 
@@ -140,10 +140,10 @@ Before we dive in, a bit about you!
 
 > Review Topics Covered
 
-#### Learning Plan
+#### Learning Plan (10 mins)
 
 
-#### Q&A
+#### Q&A (5 mins)
 
 ***
 
