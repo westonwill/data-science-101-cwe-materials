@@ -31,12 +31,11 @@ Included in this repository:
 
 If this is your first time teaching this workshop, welcome!! Please take *15 minutes* to read through the following onboarding materials to help get an understanding of your responsibilities as an instructor and gain some background context on this course.
 
+
 Document                            | Description
 ----------------------------------- | ------------------------------------------
-[Background](./curriculum/01-onboarding/01-background.md) | Who we are and what we offer at General Assembly
-[Materials](./curriculum//01-onboarding/02-materials.md) | Some context around the materials we provide
-[Roadmap](./curriculum//01-onboarding/03-roadmap.md) | Prerequisites and suggested follow-up plan
-[Resources](./curriculum//01-onboarding/04-tools-policies.md) | Description of tools used and relevant policies for this workshop
+[Roadmap](./curriculum//01-onboarding/01-roadmap.md) | Prerequisites and suggested follow-up plan
+[Resources](./curriculum//01-onboarding/02-tools-policies.md) | Description of tools used and relevant policies for this workshop
 
 
 ## Contributing
