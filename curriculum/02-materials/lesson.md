@@ -1,6 +1,6 @@
 ---
 title: Data Science 101
-duration: "1:25"
+duration: "2:50"
 creator:
     name: J Rogel-Salazar
     city: LDN
@@ -20,11 +20,13 @@ creator:
 *Before this lesson, you should already be able to:*
 - Bring a laptop with [Python 2.7](#) and [Anaconda](#) installed.
 - If you are using a PC, install [git-bash terminal](#).
+- Curiosity and open mind!
 
 ### INSTRUCTOR PREP
 *Before this lesson, instructors will need to:*
 - Review & modify lesson plan & slide deck as needed
 - Write learning objectives & relevant information on board
+- Review student roster
 
 ### WORKSHOP AGENDA
 | TIMING  | TYPE  | TOPIC  |
@@ -45,9 +47,15 @@ creator:
 ---
 
 <a name="opening"></a>
-## Opening (# mins)
+## Opening (10 mins)
 
 > Note: Let people know where restrooms and kitchen are located, as needed.
+ 
+- Welcome the students and find out about their interests
+- Review current lesson objectives
+- Check that all laptops have a Python 2.7 distribution. Anaconda is the recommended distro.
+- Reference general course content or topics (e.g. code or concepts that have been used across multiple lessons)
+- Include Hook / Real-world Relevance (why the content from this lesson is useful or important)
 
 #### Instructor Bio
 
@@ -82,34 +90,103 @@ Before we dive in, a bit about you!
 ***
 
 <a name="intro1"></a>
-## Introduction: Data Science (15 mins)
+## Introduction: Why Data Science? What Can Data Science Do For Me? (15 mins)
 
+**Data Science**: A set of tools and techniques used to extract useful information from data. 
 
+- An interdisciplinary, problem-solving oriented subject.
+- The application of scientific techniques to practical problems.
+- A rapidly growing field.
+
+#### Qualities of a data scientist
+
+- Programming skills
+- Maths and Stats knowlege
+- Business acumen (substantive expertise)
+- Plus: Communication skills
+
+**Check:** Insert 1-2 guiding questions to ensure students are comprehending the material.
+
+- What is your field of expertise?
+- Do you use tools such as Excel, Stata, R, Python?
+- Where are you in the intersection of these skills?
+
+> Instructor Note: The discussion for this part of the lesson can be used to prompt the students to self-assess those areas where they are stronger/weaker. This will help with creating their "Learning Plan".
+
+#### What can data science do for me?
+
+* Ask good questions: what is what…? …we don’t know?… we’d like to know?
+* Define and test a hypothesis. Run experiments
+* Scoop, scrap, sink and sample business relevant data
+* Munge and wrestle data 
+* Visualise data
+* Understand data relationships
+* Tell the machine how to learn from data
+* Create data products that deliver actionable insight
+* Tell relevant business stories from data
 
 ***
 
 <a name="demo1"></a>
-## Demo: Data Science Workflow (15 mins)
+## Demo: Visualizing the Data Science Workflow (15 mins)
 
+Walk through the steps of the Data Science Workflow. 
+
+> Instructor Note: Make sure to emphasise that the workflow is an iterative process and not necessarily a linear one. 
+
+Data Science Workflow:
+
+- Acquire 
+- Parse
+- Filter
+- Mine
+- Represent
+- Refine
+- Interact
+
+**Demo:** Ask the students to consider these steps in light of a real data science problem. For example: 
+
+_"What are the leading indicators that a user will make a new online purchase?"_
+
+
+**Check:** By this point, students should be able to write out specific actions related to the steps in the data science workflow.
 
 ***
 
 <a name="guided-practice1"></a>
-## Guided Practice: Tools of the Trade (15 mins)
+## Guided Practice: Exploring the Data Science Toolkit (20 mins)
+
+Using a sample dataset, demonstrate how to carry out descriptive analytics using the well-known `pandas` library.
+
+**Check:** Were students able to successfully solve the problem or complete the task?
+
 
 ***
 
 <a name="ind-practice1"></a>
-## Independent Practice: Working with Data (20 mins)
+## Independent Practice: Analyze Some Data! (20 mins)
+
+Use the lesson topic/skill to create a deliverable that meets certain criteria.
+
+> Instructor Note: This can be a pair programming activity or done indpendently.
+
+Using a second dataset, ask the students to carry out similar analysis to the one demonstrated in during the "Guided Practice"
+
+**Check:** Were students able to create the desired deliverable(s)? Did it meet all necessary requirements / constraints?
+
 
 ***
 
-> **BREAK**
+> **BREAK** (5-10 mins)
 
 ***
 
 <a name="intro2"></a>
 ## Introduction: What's an Algorithm, Anyway? (15 mins)
+
+> Instructor Note: Before re-starting the class, check for any questions the students may have about the first part of the workshop
+
+
 
 
 
@@ -144,7 +221,7 @@ Before we dive in, a bit about you!
 ***
 
 <a name="takeaway"></a>
-## Takeways: Learning Plan + Q&A (15 mins)
+## Takeways: Learning Plan + Q&A (10 mins)
 
 #### What Should You Do Next?
 
