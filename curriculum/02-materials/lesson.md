@@ -186,8 +186,20 @@ Using a second dataset, ask the students to carry out similar analysis to the on
 
 > Instructor Note: Before re-starting the class, check for any questions the students may have about the first part of the workshop
 
+*Algorithm*: A set of steps to accomplish a task.
 
+Discussion: Ask students to list the steps they follow to achieve an every-day task, e.g. make cheese on toast, commute to work, make a cup of tea.
 
+*Computer Science Algorithm*: 
+
+- Start with input data
+- Do (complex) calculations
+- Stop when the answer is found
+
+Good algorithms are:
+
+1. Correct
+2. Efficient
 
 
 ***
@@ -195,18 +207,58 @@ Using a second dataset, ask the students to carry out similar analysis to the on
 <a name="demo2"></a>
 ## Demo: Algorithms in Action (15 mins)
 
+Discuss a well-known computer science algorithm such as sorting. See the [Resources](#resources) Section for examples.
 
+### Algorithms in the context of Machine Learning
+
+Machine learning is a branch of artificial intelligence. It is concerned with the construction and study of systems that can learn from data.
+
+The core of machine learning deals with representation and generalisation…
+
+- representation – extracting structure from data
+- generalisation – making predictions from data
+
+**Machine learning problems**
+
+- Supuervised: Making predictions (generalisation)
+- Unsupervised: Extracting structure (representation)
 
 ***
 
 <a name="guided-practice2"></a>
 ## Guided Practice: Thinking Logically (20 mins)
 
+> Instructor Note: Run through the example with the students and ask them to draw a decision tree based on the  "business rules" below in plain English (you can also show pseudo-code).
+
+### **EXAMPLE**
+
+During a doctor's examination some patients show the following characteristics:
+
+	X1: temperature
+	X2: coughing
+	X3: reddening throat
+
+The doctor has the following outcomes for the patients:
+
+	Y = {W1, W2, W3, W4, W5}
+	W1: cold
+	W2: quinsy
+	W3: flu
+	W4: pneumonia
+	W5: healthy	
+
+It is required to find a model where `Y` depends on `X`. The rules below illustrate such a model:
+
+1. If `X1 < 37` , `Y`="is health".2. If `X1 ∈ [37,38.5]` and `X3`="there is no reddening of throat", then `Y=`"cold";3. If `X1 ∈ [37,38.5]` and `X3=`"there is reddening of throat", then `Y=`"quinsy";4. If `X1 > 38.5` and `X2=`"there is no cough", then `Y=`"flu";5. If `X1 > 38.5` and `X2=`"there is cough", then `Y=`"pneumonia";
+
+Any new (unseen) patient can now be diagnosed using these rules. 
 
 ***
 
 <a name="ind-practice2"></a>
 ## Independent Practice: Data Science Case Study (20 mins)
+
+Using the dataset(s) from [Part 1 - Guided Practice](#guided-practice1) or [Part 1 - Independent Practice](#ind-practice1) implement a decision tree algorithm using scikit-learn. 
 
 
 ***
@@ -218,6 +270,15 @@ Using a second dataset, ask the students to carry out similar analysis to the on
 
 > Review Topics Covered
 
+In the workshop you have covered the following topics:
+
+- Why data science?
+- What can data science do for me?
+- The data science worflow
+- Analyse and visualise data using Python (pandas, matplotlib, NumPy, etc)
+- Understand the role of algorithms and their relationship with machine learning
+- Understand the main concepts behind a decision tree to make predictions
+
 ***
 
 <a name="takeaway"></a>
@@ -225,12 +286,19 @@ Using a second dataset, ask the students to carry out similar analysis to the on
 
 #### What Should You Do Next?
 
+Encourage the students to continue learning by producing a plan based on the skills discussed in [Part 1 - Introduction](#intro1).
+
+Suggest sonme resources such as books, podcasts, GA courses, etc.
+
 #### Q & A
+
+> Instructor Notes: Encourage the students to share any thoughts or questions before closing the session. 
 
 ***
 
+<a name="resources"></a>
 ## ADDITIONAL RESOURCES
-
-- [a](#)
-- [b](#)
-- [c](#)
+- [Sorting algorithms](https://www.toptal.com/developers/sorting-algorithms)
+- [15 sorting algos in 6 min](https://www.youtube.com/watch?v=kPRA0W1kECg)
+- [Decision trees in scikit-learn](http://scikit-learn.org/stable/modules/tree.html)
+- [Decision trees tutorial](http://www.analyticsvidhya.com/blog/2016/04/complete-tutorial-tree-based-modeling-scratch-in-python/)
