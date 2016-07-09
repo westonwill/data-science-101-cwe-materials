@@ -11,9 +11,9 @@ creator:
 ### LEARNING OBJECTIVES
 *After this lesson, you will be able to:*
 - Explain the field of data science, defining common roles, benefits, and trends.
-- Explore popular tools and resources to visualize and analyze data.
-- Recognize types of problems that can be solved by data scientists.
-- Apply the data science workflow and provide recommendations.
+- Explore some popular tools and resources to visualize,  analyze, and model data.
+- Recognize the different types of problems that can be solved by data scientists.
+- Apply the data science workflow to provide real world recommendations.
 - Create a custom learning plan to help you continue to build fundamental data science skills after this workshop.
 
 ### STUDENT PRE-WORK
