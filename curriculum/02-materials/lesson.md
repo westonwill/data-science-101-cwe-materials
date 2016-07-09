@@ -158,6 +158,8 @@ _"What are the leading indicators that a user will make a new online purchase?"_
 
 Using a sample dataset, demonstrate how to carry out descriptive analytics using the well-known `pandas` library.
 
+See the proposed example in the [code](./code) section.
+
 **Check:** Were students able to successfully solve the problem or complete the task?
 
 
@@ -170,7 +172,9 @@ Use the lesson topic/skill to create a deliverable that meets certain criteria.
 
 > Instructor Note: This can be a pair programming activity or done indpendently.
 
-Using a second dataset, ask the students to carry out similar analysis to the one demonstrated in during the "Guided Practice"
+Using a second dataset, ask the students to carry out similar analysis to the one demonstrated in during the "Guided Practice".
+
+See the proposed example in the [code](./code) section.
 
 **Check:** Were students able to create the desired deliverable(s)? Did it meet all necessary requirements / constraints?
 
