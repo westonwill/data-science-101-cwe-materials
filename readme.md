@@ -12,9 +12,10 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 
 <!-- a bulleted list of learning goals from Confluence -->
 
-- Goal 1
-- Goal 2
-- Goal 3
+- Explain the field of data science, defining common roles, benefits, and trends.
+- Explore some popular tools and resources to visualize,  analyze, and model data.
+- Recognize the different types of problems that can be solved by data scientists.
+- Apply the data science workflow to provide real world recommendations.
 
 ---
 
