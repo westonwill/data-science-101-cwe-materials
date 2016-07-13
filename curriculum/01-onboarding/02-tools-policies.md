@@ -31,7 +31,7 @@ It is also our experience that students should have laptops with screens of at l
 
 **Mac:** For those with Macs, you’ll need the Mac OS X 10.8.5 or higher, up to 10.11.4 (El Capitan). *This rules out some older MacBooks*
 
-**PC/Linux:** For students on Windows, you’ll need to be using at least Microsoft Windows 8 or 10 (either 32 or 64 bit). Students are welcome to bring their own PC or Linux machines, but we **cannot guarantee* tech support for these devices.**
+**PC/Linux:** For students on Windows, you’ll need to be using at least Microsoft Windows 8 or 10 (either 32 or 64 bit). Students are welcome to bring their own PC or Linux machines, but we **cannot guarantee tech support for these devices.**
 
 
 #### Questions? Issues?
