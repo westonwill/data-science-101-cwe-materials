@@ -18,8 +18,8 @@ creator:
 
 ### STUDENT PRE-WORK
 *Before this lesson, you should already be able to:*
-- Bring a laptop with [Python 2.7](#) and [Anaconda](#) installed.
-- If you are using a PC, install [git-bash terminal](#).
+- Bring a laptop with [Anaconda](https://www.continuum.io/downloads) installed. Scroll to your operating system version and click on the install button for ***Anaconda with Python 2.7***. Note: we'll be using Python version 2.7 in this workshop.
+- If you are using a PC, please install the [git for windows terminal](https://git-for-windows.github.io).
 
 ### INSTRUCTOR PREP
 *Before this lesson, instructors will need to:*
