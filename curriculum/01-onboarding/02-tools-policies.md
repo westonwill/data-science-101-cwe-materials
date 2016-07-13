@@ -7,15 +7,13 @@ Instead, General Assembly provides a core set of objectives for this workshop, a
 
 ## Required Tools
 
-- [Github](www.github.com) - We’re using Github to store and share our code
-- X
-- Y
+- Bring a laptop with [Anaconda](https://www.continuum.io/downloads) installed. Scroll to your operating system version and click on the install button for ***Anaconda with Python 2.7***. Note: we'll be using Python version 2.7 in this workshop.
+- If you are using a PC, please install the [git for windows terminal](https://git-for-windows.github.io).
 
-#### Optional Tools
+## Optional Tools
 These tools aren't required, but offer additional functionality that students may find helpful!
 
-- Popular Text Editors: [Atom](https://atom.io) or [Sublime](http://www.sublimetext.com)
-
+- Install a popular text editor, like [Atom](https://atom.io) or [Sublime Text 3](http://www.sublimetext.com).
 
 
 ## Technology Policy
@@ -31,9 +29,9 @@ It is also our experience that students should have laptops with screens of at l
 
 #### Operating Systems Policy
 
-**Mac:** We require students using Mac laptops to be able to run at least Mac OS X 10.8 Mountain Lion or greater. *This rules out some older MacBooks*
+**Mac:** For those with Macs, you’ll need the Mac OS X 10.8.5 or higher, up to 10.11.4 (El Capitan). *This rules out some older MacBooks*
 
-**PC/Linux:** Students are welcome to bring their own PC or Linux machines, but once again, we **cannot guarantee* tech support for these devices.**
+**PC/Linux:** For students on Windows, you’ll need to be using at least Microsoft Windows 8 or 10 (either 32 or 64 bit). Students are welcome to bring their own PC or Linux machines, but we **cannot guarantee* tech support for these devices.**
 
 
 #### Questions? Issues?
