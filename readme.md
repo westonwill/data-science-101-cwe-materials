@@ -4,13 +4,13 @@ Welcome to General Assembly's Data Science 101. This repository contains all of 
 
 ## Value Proposition
 
-<!--  Taken from Confluence -->
+Data Scientist is the "sexiest job of the 21st century", according to Harvard Business Review. Despite all the hype surrounding big data, data scientists know that the size of your data doesn't matter - it’s what you do with it. This workshop represents the first step towards avoiding buzzwords and improving your data literacy.
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+Data science is a core element of modern business, but most people don’t know how to harness data to drive their vision. Before diving into analysis, it’s important to define a clear approach based on organizational goals and objectives. From there, data science can help you understand and analyze trends in order to make accurate predictions and data-driven recommendations.
+
+ In this workshop, we’ll define what data science is, review some of the main tools used by data scientists today, and discuss how these tools can be implemented in real world workflows using examples and case studies.
 
 #### Students Will Learn How To:
-
-<!-- a bulleted list of learning goals from Confluence -->
 
 - Explain the field of data science, defining common roles, benefits, and trends.
 - Explore some popular tools and resources to visualize,  analyze, and model data.
@@ -19,7 +19,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 
 ---
 
-Included in this repository:
+## Included in this repository:
 
 1. [**Onboarding Materials**](./curriculum/01-onboarding) - Background context & instructions for how to make use of our materials.
 
