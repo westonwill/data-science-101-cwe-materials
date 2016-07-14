@@ -10,6 +10,7 @@ creator:
 
 ### LEARNING OBJECTIVES
 *After this lesson, you will be able to:*
+
 - Explain the field of data science, defining common roles, benefits, and trends.
 - Explore some popular tools and resources to visualize,  analyze, and model data.
 - Recognize the different types of problems that can be solved by data scientists.
@@ -17,13 +18,13 @@ creator:
 - Create a custom learning plan to help you continue to build fundamental data science skills after this workshop.
 
 ### STUDENT PRE-WORK
-*Before this lesson, you should already be able to:*
-- Bring a laptop with [Python 2.7](#) and [Anaconda](#) installed.
-- If you are using a PC, install [git-bash terminal](#).
-- Curiosity and open mind!
+*Before this lesson, you will need to:*
+- Bring a laptop with [Anaconda](https://www.continuum.io/downloads) installed. Scroll to your operating system version and click on the install button for ***Anaconda with Python 2.7***. Note: we'll be using Python version 2.7 in this workshop.
+- If you are using a PC, please install the [git for windows terminal](https://git-for-windows.github.io).
 
 ### INSTRUCTOR PREP
 *Before this lesson, instructors will need to:*
+
 - Review & modify lesson plan & slide deck as needed
 - Write learning objectives & relevant information on board
 - Review student roster
@@ -50,12 +51,9 @@ creator:
 ## Opening (10 mins)
 
 > Note: Let people know where restrooms and kitchen are located, as needed.
- 
+
 - Welcome the students and find out about their interests
 - Review current lesson objectives
-- Check that all laptops have a Python 2.7 distribution. Anaconda is the recommended distro.
-- Reference general course content or topics (e.g. code or concepts that have been used across multiple lessons)
-- Include Hook / Real-world Relevance (why the content from this lesson is useful or important)
 
 #### Instructor Bio
 
@@ -74,8 +72,11 @@ Before we dive in, a bit about you!
 #### Our Expectations
 
 - You're ready to take charge of your learning experience.
-- You've installed Anaconda & Python 2.7.
 - You're curious and excited about data science!
+- You've installed [Anaconda with Python 2.7](https://www.continuum.io/downloads).
+
+> Note: Check that all laptops have a *Python 2.7* distribution. [Anaconda is the recommended distro](https://www.continuum.io/downloads).
+
 
 #### Our Objectives
 
@@ -92,7 +93,7 @@ Before we dive in, a bit about you!
 <a name="intro1"></a>
 ## Introduction: Why Data Science? What Can Data Science Do For Me? (15 mins)
 
-**Data Science**: A set of tools and techniques used to extract useful information from data. 
+**Data Science**: A set of tools and techniques used to extract useful information from data.
 
 - An interdisciplinary, problem-solving oriented subject.
 - The application of scientific techniques to practical problems.
@@ -101,7 +102,7 @@ Before we dive in, a bit about you!
 #### Qualities of a data scientist
 
 - Programming skills
-- Maths and Stats knowlege
+- Maths and Stats knowledge
 - Business acumen (substantive expertise)
 - Plus: Communication skills
 
@@ -118,8 +119,8 @@ Before we dive in, a bit about you!
 * Ask good questions: what is what…? …we don’t know?… we’d like to know?
 * Define and test a hypothesis. Run experiments
 * Scoop, scrap, sink and sample business relevant data
-* Munge and wrestle data 
-* Visualise data
+* Munge and wrestle data
+* Visualize data
 * Understand data relationships
 * Tell the machine how to learn from data
 * Create data products that deliver actionable insight
@@ -130,13 +131,13 @@ Before we dive in, a bit about you!
 <a name="demo1"></a>
 ## Demo: Visualizing the Data Science Workflow (15 mins)
 
-Walk through the steps of the Data Science Workflow. 
+Walk through the steps of the Data Science Workflow.
 
-> Instructor Note: Make sure to emphasise that the workflow is an iterative process and not necessarily a linear one. 
+> Instructor Note: Make sure to emphasize that the workflow is an iterative process and not necessarily a linear one.
 
 Data Science Workflow:
 
-- Acquire 
+- Acquire
 - Parse
 - Filter
 - Mine
@@ -144,7 +145,7 @@ Data Science Workflow:
 - Refine
 - Interact
 
-**Demo:** Ask the students to consider these steps in light of a real data science problem. For example: 
+**Demo:** Ask the students to consider these steps in light of a real data science problem. For example:
 
 _"What are the leading indicators that a user will make a new online purchase?"_
 
@@ -170,7 +171,7 @@ See the proposed example in the [code](./code) section.
 
 Use the lesson topic/skill to create a deliverable that meets certain criteria.
 
-> Instructor Note: This can be a pair programming activity or done indpendently.
+> Instructor Note: This can be a pair programming activity or done independently.
 
 Using a second dataset, ask the students to carry out similar analysis to the one demonstrated in during the "Guided Practice".
 
@@ -194,7 +195,7 @@ See the proposed example in the [code](./code) section.
 
 Discussion: Ask students to list the steps they follow to achieve an every-day task, e.g. make cheese on toast, commute to work, make a cup of tea.
 
-*Computer Science Algorithm*: 
+*Computer Science Algorithm*:
 
 - Start with input data
 - Do (complex) calculations
@@ -217,14 +218,14 @@ Discuss a well-known computer science algorithm such as sorting. See the [Resour
 
 Machine learning is a branch of artificial intelligence. It is concerned with the construction and study of systems that can learn from data.
 
-The core of machine learning deals with representation and generalisation…
+The core of machine learning deals with representation and generalization.
 
-- representation – extracting structure from data
-- generalisation – making predictions from data
+- Representation – extracting structure from data
+- Generalization – making predictions from data
 
 **Machine learning problems**
 
-- Supuervised: Making predictions (generalisation)
+- Supervised: Making predictions (generalization)
 - Unsupervised: Extracting structure (representation)
 
 ***
@@ -249,20 +250,20 @@ The doctor has the following outcomes for the patients:
 	W2: quinsy
 	W3: flu
 	W4: pneumonia
-	W5: healthy	
+	W5: healthy
 
 It is required to find a model where `Y` depends on `X`. The rules below illustrate such a model:
 
 1. If `X1 < 37` , `Y`="is health".2. If `X1 ∈ [37,38.5]` and `X3`="there is no reddening of throat", then `Y=`"cold";3. If `X1 ∈ [37,38.5]` and `X3=`"there is reddening of throat", then `Y=`"quinsy";4. If `X1 > 38.5` and `X2=`"there is no cough", then `Y=`"flu";5. If `X1 > 38.5` and `X2=`"there is cough", then `Y=`"pneumonia";
 
-Any new (unseen) patient can now be diagnosed using these rules. 
+Any new (unseen) patient can now be diagnosed using these rules.
 
 ***
 
 <a name="ind-practice2"></a>
 ## Independent Practice: Data Science Case Study (20 mins)
 
-Using the dataset(s) from [Part 1 - Guided Practice](#guided-practice1) or [Part 1 - Independent Practice](#ind-practice1) implement a decision tree algorithm using scikit-learn. 
+Using the dataset(s) from [Part 1 - Guided Practice](#guided-practice1) or [Part 1 - Independent Practice](#ind-practice1) implement a decision tree algorithm using scikit-learn.
 
 
 ***
@@ -274,7 +275,7 @@ Using the dataset(s) from [Part 1 - Guided Practice](#guided-practice1) or [Part
 
 > Review Topics Covered
 
-In the workshop you have covered the following topics:
+In this workshop, we've covered the following topics:
 
 - Why data science?
 - What can data science do for me?
@@ -296,7 +297,7 @@ Suggest sonme resources such as books, podcasts, GA courses, etc.
 
 #### Q & A
 
-> Instructor Notes: Encourage the students to share any thoughts or questions before closing the session. 
+> Instructor Notes: Encourage the students to share any thoughts or questions before closing the session.
 
 ***
 
