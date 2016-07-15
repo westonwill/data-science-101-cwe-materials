@@ -211,7 +211,9 @@ You are a junior data scientist at "X-company". Your boss asks you about the lea
 > 
 > ### Suggested Answer
 > 
-> You can walk the student through the example all together in class. Use the discussion points below. You can then break the class into grpup and tackle a similar problem in their groups and share their results with the class:
+> You can walk the student through the example all together in class. Use the discussion points below. 
+> 
+> **Check:** By this point, students should be able to understand out specific actions related to the steps in the data science workflow. To assess this you can then break the class into grpup and tackle a similar problem in their groups and share their results with the class:
 > 
 >  * Collect data around user retention, user actions within the product, potentially find data outside of company
 > * Extract aggregated values from raw data
@@ -220,8 +222,7 @@ You are a junior data scientist at "X-company". Your boss asks you about the lea
 > * Examine data to find common distributions and correlations
 > * Extract new meaning to predict if user would purchase again
 > Share results via an interactive presentation with a Jupyter Notebook (and probably also go back to the drawing board)
-
-**Check:** By this point, students should be able to write out specific actions related to the steps in the data science workflow.
+> 
 
 ***
 
