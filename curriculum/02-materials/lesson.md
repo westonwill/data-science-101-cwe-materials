@@ -164,14 +164,62 @@ Data Science Workflow:
 * Identify the problem
 	* Identify business/product objectives
 	* Identify and hypothesise goals and criteria for success
-	* 
-
+	* Create a set of questions for identifying correct dataset
+* Acquire the data
+	* Identify the "right" dataset(s)
+	* Import data and set up local or remote data structure
+	* Determine most appropriate tools to work with data
+* Parse the data
+	* Read any documentation provided with the data
+	* Perform exploratory data analysis
+	* Verify the quality of the data
+* Mine the data
+	* Determine sampling methodology and sample data
+	* Format, clean, slice and combine data (in Python)
+	* Create necessary derived columns from the data (new data)
+* Refine the data
+	* Identify trends and outliers
+	* Apply descriptive and inferential stats
+	* Document and transform data
+* Build a data model
+	* Select appropriate model
+	* Build model
+	* Evaluate and refine model
+* Present results
+	*  Summarise with narrative, storytelling techniques
+	*  Present limitations and assumptions of your analysis
+	*  Identify follow up issues for future analysis
+*  Deploy and validate
+	*  Write unit tests and documentation
+	*  Deploy stable production-ready code
+	*  Retrain and validate models over time
 
 
 **Demo:** Ask the students to consider these steps in light of a real data science problem. For example:
 
-_"What are the leading indicators that a user will make a new online purchase?"_
+**_"What are the leading indicators that a user will make a new online purchase?"_**
 
+You are a junior data scientist at "X-company". Your boss asks you about the leading indicators that a user will make a new online purchase. How would you go about solving this question?
+
+- **Acquire Data**: What could we do first here? What are some considerations we should make?
+- **Parse Data**: What do you think this means? Why is it important?
+- **Mine and Refine**: Is the raw data enough? What calculations/transformation do you recommend doing? How do you determine the presence of outliers?
+- **Data model**: What attributes are would you include in the modelling stage? How do you know if the model is performing well?
+- **Results**: Who is your audience? What is the best way to present your resuls
+
+> Instructor Note:
+> 
+> ### Suggested Answer
+> 
+> You can walk the student through the example all together in class. Use the discussion points below. You can then break the class into grpup and tackle a similar problem in their groups and share their results with the class:
+> 
+>  * Collect data around user retention, user actions within the product, potentially find data outside of company
+> * Extract aggregated values from raw data
+> 	* How many times did a user share through Facebook within a week? A month?
+> 	* How often did they open up our emails?
+> * Examine data to find common distributions and correlations
+> * Extract new meaning to predict if user would purchase again
+> Share results via an interactive presentation with a Jupyter Notebook (and probably also go back to the drawing board)
 
 **Check:** By this point, students should be able to write out specific actions related to the steps in the data science workflow.
 
