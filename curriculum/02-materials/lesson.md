@@ -315,7 +315,9 @@ Let us use Python to perform some analytics that will help us differentiate the 
 <a name="intro2"></a>
 ## Introduction: What's an Algorithm, Anyway? (15 mins)
 
-> Instructor Note: Before re-starting the class, check for any questions the students may have about the first part of the workshop
+> Instructor Note: 
+> 
+> Before re-starting the class, check for any questions the students may have about the first part of the workshop
 
 *Algorithm*: A set of steps to accomplish a task.
 
