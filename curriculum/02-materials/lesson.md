@@ -534,7 +534,21 @@ Any new (unseen) patient can now be diagnosed using these rules.
 <a name="ind-practice2"></a>
 ## Independent Practice: Data Science Case Study (20 mins)
 
-Using the dataset(s) from [Part 1 - Guided Practice](#guided-practice1) or [Part 1 - Independent Practice](#ind-practice1) implement a decision tree algorithm using scikit-learn.
+> Instructor Note:
+> 
+> ### Activity
+> Using the dataset(s) from [Part 1 - Guided Practice](#guided-practice1) or [Part 1 - Independent Practice](#ind-practice1) implement a decision tree algorithm using scikit-learn.
+> 
+> Remind the students of that scikit-learn is, from the discusion from [Guided Practice](#guided-practice1)
+> 
+> Provide a copy of the notebook [DataScience101_Part2_DecisionTree.ipynb](./code/DataScience101_Part2_DecisionTree.ipynb) and the [Iris dataset](./code/data/iris.csv) 
+> 
+> The notebook makes use of the Scikit-learn library. 
+> We have not had an opportunity to demo the library or the decision tree model. 
+> 
+> Therefore we suggest providing the complete notebook and let the students work in pairs to run and discuss the code.
+> 
+> Bring the class together to explain the code and allow for questions.
 
 
 ***
