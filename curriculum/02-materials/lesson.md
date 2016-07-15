@@ -119,7 +119,13 @@ Before we dive in, a bit about you!
 
 #### What can data science do for me?
 
-* Ask good questions: what is what…? …we don’t know?… we’d like to know?
+* Ask good questions: 
+	* what is required?
+	* how are results evaluated? (measures of success)
+	* what do we currently know? (existing data)
+	* what has happened? (descriptive analytics)
+	* what will happen (if)? (predictive analytics)
+	* what to do to achieve what we require? (insight)
 * Define and test a hypothesis. Run experiments
 * Scoop, scrap, sink and sample business relevant data
 * Munge and wrestle data
