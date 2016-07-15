@@ -454,8 +454,27 @@ The core of machine learning deals with representation and generalisation.
 
 **Machine learning problems**
 
-- Supervised: Making predictions (generalisation)
-- Unsupervised: Extracting structure (representation)
+- **Supervised**: Making predictions (generalisation)
+
+For example, suppose you want to predict whether someone will make make a purchase the week after they visit your portal. 
+
+You have a set of data on previous customers, including age, interests, previous purchases, time of visit, etc. 
+
+You know whether the previous customers made a purchase within a week of their last visit. So, the problem is combining all the existing data into a model that can predict whether a new person will make a purchase with in a week.
+
+You can then take action and make an offer, or recommend a product. 
+
+Amazon, Netflix, and others do this based on the history of their existing customers
+
+- **Unsupervised**: Extracting structure (representation)
+
+For example, suppose you want to understand your customer base so that you can produce appropriate segments that you can target with your next marketing campaign. You may not know what the main characteristics to use.
+
+You have a set of data about your customers, including age, location, previous purchases, time of visit, etc. 
+
+Based on these attributes you can find similarities and differences that provide groupings (segments) of customers.
+
+You can then take action and make an offer, or recommend a product specifically to these segments.
 
 ***
 
