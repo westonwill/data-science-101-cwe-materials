@@ -525,7 +525,7 @@ In data science terms, the doctor requires a model where `Y` (the diagnosis) dep
 
 The rules below illustrate such a model:
 
-1. If `X1 < 37` , `Y`="is health".2. If `X1 ∈ [37,38.5]` and `X3`="there is no reddening of throat", then `Y=`"cold";3. If `X1 ∈ [37,38.5]` and `X3=`"there is reddening of throat", then `Y=`"tonsilitis";4. If `X1 > 38.5` and `X2=`"there is no cough", then `Y=`"flu";5. If `X1 > 38.5` and `X2=`"there is cough", then `Y=`"pneumonia";
+1. If `X1 < 37` , `Y`="is health".2. If `X1` has values between `[37,38.5]` and `X3`="there is no reddening of throat", then `Y=`"cold";3. If `X1` has values between `[37,38.5]` and `X3=`"there is reddening of throat", then `Y=`"tonsilitis";4. If `X1 > 38.5` and `X2=`"there is no cough", then `Y=`"flu";5. If `X1 > 38.5` and `X2=`"there is cough", then `Y=`"pneumonia";
 
 Any new (unseen) patient can now be diagnosed using these rules.
 
