@@ -12,8 +12,8 @@ creator:
 *After this lesson, you will be able to:*
 
 - Explain the field of data science, defining common roles, benefits, and trends.
-- Explore some popular tools and resources to visualize,  analyze, and model data.
-- Recognize the different types of problems that can be solved by data scientists.
+- Explore some popular tools and resources to visualize,  analyse, and model data.
+- Recognise the different types of problems that can be solved by data scientists.
 - Apply the data science workflow to provide real world recommendations.
 - Create a custom learning plan to help you continue to build fundamental data science skills after this workshop.
 
@@ -34,9 +34,9 @@ creator:
 |:-:|---|---|
 | 10 min  | [Opening](#opening)  | Greetings + The GA Experience  |
 | 15 min  | [Introduction](#intro1)   | Why Data Science? What Can Data Science Do For Me? |
-| 15 min  | [Demo](#demo1)  | Visualizing the Data Science Workflow  |
+| 15 min  | [Demo](#demo1)  | Visualising the Data Science Workflow  |
 | 20 min  | [Guided Practice](#guided-practice1)  | Exploring the Data Science Toolkit |
-| 20 min  | [Independent Practice](#ind-practice1)  | Analyze Some Data! |
+| 20 min  | [Independent Practice](#ind-practice1)  | Analyse Some Data! |
 | 5-10 min  | BREAK  |   |
 | 15 min  | [Introduction](#intro2)   | What's an Algorithm, Anyway? |
 | 15 min  | [Demo](#demo2)  | Algorithms in Action  |
@@ -66,7 +66,7 @@ Before we dive in, a bit about you!
 
 > Have students introduce themselves: name, what brings them to GA (ask for their current career & any specific goals), & one "fun fact".
 
-> **Example Exercise**: *Have students write these on google doc or google poll. Instructor can briefly demonstrate data science workflow by categorizing data, merging into CSV file,  pulling out features, etc.*
+> **Example Exercise**: *Have students write these on google doc or google poll. Instructor can briefly demonstrate data science workflow by categorising data, merging into CSV file,  pulling out features, etc.*
 
 
 #### Our Expectations
@@ -153,21 +153,20 @@ Before we dive in, a bit about you!
 ***
 
 <a name="demo1"></a>
-## Demo: Visualizing the Data Science Workflow (15 mins)
+## Demo: Visualising the Data Science Workflow (15 mins)
 
 Walk through the steps of the Data Science Workflow.
 
-> Instructor Note: Make sure to emphasize that the workflow is an iterative process and not necessarily a linear one.
+> Instructor Note: Make sure to emphasise that the workflow is an iterative process and not necessarily a linear one.
 
 Data Science Workflow:
 
-- Acquire
-- Parse
-- Filter
-- Mine
-- Represent
-- Refine
-- Interact
+* Identify the problem
+	* Identify business/product objectives
+	* Identify and hypothesise goals and criteria for success
+	* 
+
+
 
 **Demo:** Ask the students to consider these steps in light of a real data science problem. For example:
 
@@ -191,7 +190,7 @@ See the proposed example in the [code](./code) section.
 ***
 
 <a name="ind-practice1"></a>
-## Independent Practice: Analyze Some Data! (20 mins)
+## Independent Practice: Analyse Some Data! (20 mins)
 
 Use the lesson topic/skill to create a deliverable that meets certain criteria.
 
@@ -242,14 +241,14 @@ Discuss a well-known computer science algorithm such as sorting. See the [Resour
 
 Machine learning is a branch of artificial intelligence. It is concerned with the construction and study of systems that can learn from data.
 
-The core of machine learning deals with representation and generalization.
+The core of machine learning deals with representation and generalisation.
 
 - Representation – extracting structure from data
-- Generalization – making predictions from data
+- Generalisation – making predictions from data
 
 **Machine learning problems**
 
-- Supervised: Making predictions (generalization)
+- Supervised: Making predictions (generalisation)
 - Unsupervised: Extracting structure (representation)
 
 ***
@@ -303,7 +302,7 @@ In this workshop, we've covered the following topics:
 
 - Why data science?
 - What can data science do for me?
-- The data science worflow
+- The data science workflow
 - Analyse and visualise data using Python (pandas, matplotlib, NumPy, etc)
 - Understand the role of algorithms and their relationship with machine learning
 - Understand the main concepts behind a decision tree to make predictions
@@ -317,7 +316,7 @@ In this workshop, we've covered the following topics:
 
 Encourage the students to continue learning by producing a plan based on the skills discussed in [Part 1 - Introduction](#intro1).
 
-Suggest sonme resources such as books, podcasts, GA courses, etc.
+Suggest some resources such as books, podcasts, GA courses, etc.
 
 #### Q & A
 
