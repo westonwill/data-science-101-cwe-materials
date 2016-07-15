@@ -128,7 +128,7 @@ Before we dive in, a bit about you!
 	* what to do to achieve what we require? (insight)
 * Define and test a hypothesis. Run experiments
 * Scoop, scrap, sink and sample business relevant data
-* Munge and wrestle data
+* Manipulate, sanitise and wrestle data
 * Visualize data
 * Understand data relationships
 * Tell the machine how to learn from data
