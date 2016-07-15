@@ -75,7 +75,7 @@ Before we dive in, a bit about you!
 - You're curious and excited about data science!
 - You've installed [Anaconda with Python 2.7](https://www.continuum.io/downloads).
 
-> Note: Check that all laptops have a *Python 2.7* distribution. [Anaconda is the recommended distro](https://www.continuum.io/downloads).
+> Instructor Note: Check that all laptops have a *Python 2.7* distribution. [Anaconda is the recommended distro](https://www.continuum.io/downloads).
 
 
 #### Our Objectives
@@ -106,7 +106,10 @@ Before we dive in, a bit about you!
 - Business acumen (substantive expertise)
 - Plus: Communication skills
 
-**Check:** Insert 1-2 guiding questions to ensure students are comprehending the material.
+**Check:** 
+
+- What do you think are the most important qualities for a data scientist?
+- Can you think of any other quality/skill we have not mentioned?
 
 - What is your field of expertise?
 - Do you use tools such as Excel, Stata, R, Python?
