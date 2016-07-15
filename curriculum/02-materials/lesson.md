@@ -269,17 +269,42 @@ We recommend using a Jupyter notebook for this guided practice. This makes it ea
 
 <a name="ind-practice1"></a>
 ## Independent Practice: Analyse Some Data! (20 mins)
+> Instructor Note: 
+> 
+> Using a second dataset, ask the students to carry out similar analysis to the one demonstrated in during the "Guided Practice".
+> 
+> This can be a pair programming activity or done independently depending on the size of the class and on students abilities. 
+> 
+> In either case, ake sure that discussion of the results is done with the entire class.
+> 
 
-Use the lesson topic/skill to create a deliverable that meets certain criteria.
+### Instructions for students
+We recommend using a Jupyter notebook for this independent practice. This makes it easier for all as it is homogenous for various environments (mac, win, linux).
 
-> Instructor Note: This can be a pair programming activity or done independently.
+1. Save the file called [DataScience101_Part1_IndPractice.ipynb](./code/DataScience101_Part1_IndPractice.ipynb) in a known location in your file system
+2. Open Jupyter: in a terminal type
+`jupyter notebook`
+3. Navigate to the  folder where you have saved the file in step 1
+4. Open the file from the Jupyter interface
+5. Voilà, you are ready to type the commands we will cover below
 
-Using a second dataset, ask the students to carry out similar analysis to the one demonstrated in during the "Guided Practice".
+# Now You Try!
 
-See the proposed example in the [code](./code) section.
+You business intelligence manager at a fast moving startup that deals with flowers. You need to analyse some data for Iris flowers of three different species.
 
-**Check:** Were students able to create the desired deliverable(s)? Did it meet all necessary requirements / constraints?
+You have received a sample data set with typical measures for the following three species for iris:
 
+- Verginica
+- Setosa
+- Versicolor
+
+Let us use Python to perform some analytics that will help us differentiate the three species later on in the modelling part of our workflow.
+
+> Instructor Note: 
+> 
+> ### Solutions
+> 
+> You can find a Jupyter notebook with solutions to the independent practice exercise in [DataScience101_Part1_IndPractice_Solutions.ipynb](./code/DataScience101_Part1_IndPractice_Solutions.ipynb)
 
 ***
 
