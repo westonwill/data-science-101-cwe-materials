@@ -135,6 +135,21 @@ Before we dive in, a bit about you!
 * Create data products that deliver actionable insight
 * Tell relevant business stories from data
 
+> Instructor Note:
+>
+> ### ACTIVITY
+> 
+> Create a table for the qualities of a data scientist and ask students to self-rate in a scale form 1-5 (or 1-10). You can then use the data to show how simple stats in action are part of the data science workflow.
+
+
+| Quality/Skill | Student 1 | Student 2 | ... | Average| 
+|:-:|---|---|---|---|
+| Programming | score 1 | score 2 | ... | Average| 
+| Maths | score 1 | score 2 | ... | Average| 
+| Stats | score 1 | score 2 | ... | Average| 
+
+
+
 ***
 
 <a name="demo1"></a>
