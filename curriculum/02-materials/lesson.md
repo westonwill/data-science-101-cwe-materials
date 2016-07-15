@@ -229,11 +229,40 @@ You are a junior data scientist at "X-company". Your boss asks you about the lea
 <a name="guided-practice1"></a>
 ## Guided Practice: Exploring the Data Science Toolkit (20 mins)
 
-Using a sample dataset, demonstrate how to carry out descriptive analytics using the well-known `pandas` library.
+**Packages**
 
-See the proposed example in the [code](./code) section.
+Libraries of code written to solve particular set of problems
 
-**Check:** Were students able to successfully solve the problem or complete the task?
+In Python there are many related packages relevant to data science: pandas, Scikit-learn, NumPy, etc. Some widely-used packages include
+
+* pandas
+	* Ever used Excel? How do yo fancy working with data structured in a similar way, but without the irritation of formatting, long formulae and better graphics. Well, use *pandas*
+* SciPy/NumPy
+	* Does your application require the use of advanced mathematical functions or numerical operations with arrays, vectors or matrices? Try *SciPy* (scientific python) and *NumPy* (numerical python
+* Scikit-Learn
+	* Are you interested in using python in a data science workflow and exploit the use of machine learning in your applications? Look no further than *Scikit-learn*
+* matplotlib
+	* Are you tired of the boring-looking charts produced with Excel? Are you bored of looking for the write menu to move a label in your plot? Take a look at the visuals offered by *matplotlib* 	
+* statsmodels: statistical tests
+	* Is your boss asking about significance testing and confidence intervals? Are you interested in descriptive statistics, statistical tests, plotting functions, and result statistics? Well *statsmodels* offers you that and more.
+* Beautiful Soup
+	* All the data you require is available freely on the web but there is no download button and *You* need to scrape the website? You can  extract data from HTML using *Beautiful soup*
+
+In this guided practice we are using a sample dataset, demonstrate how to carry out descriptive analytics using the `pandas` library we introduced above.
+
+> Instructor Note:
+> ### IDE to be used
+> You can show the following commands and concepts using a python/ipython shell. We encourage you to use a **Jupyter notebook** in the second part of the workshop.
+
+### Instructions for students
+We recommend using a Jupyter notebook for this guided practice. This makes it easier for all as it is homogenous for various environments (mac, win, linux).
+
+1. Save the file called [DataScience101_Part1_GuidedPractice.ipynb](./code/DataScience101_Part1_GuidedPractice.ipynb) in a known location in your file system
+2. Open Jupyter: in a terminal type
+`jupyter notebook`
+3. Navigate to the  folder where you have saved the file in step 1
+4. Open the file from the Jupyter interface
+5. Voilà, you are ready to type the commands we will cover below
 
 
 ***
