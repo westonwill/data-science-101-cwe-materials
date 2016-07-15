@@ -466,6 +466,11 @@ You can then take action and make an offer, or recommend a product.
 
 Amazon, Netflix, and others do this based on the history of their existing customers
 
+- Some supervised learning algorithms include:
+	- linear regression
+	- decision trees 
+	- neural networks 
+
 - **Unsupervised**: Extracting structure (representation)
 
 For example, suppose you want to understand your customer base so that you can produce appropriate segments that you can target with your next marketing campaign. You may not know what the main characteristics to use.
@@ -476,12 +481,26 @@ Based on these attributes you can find similarities and differences that provide
 
 You can then take action and make an offer, or recommend a product specifically to these segments.
 
+- Some supervised learning algorithms include:
+	- logistic regression
+	- clustering 
+	- anomaly detection
+
 ***
 
 <a name="guided-practice2"></a>
 ## Guided Practice: Thinking Logically (20 mins)
 
 > Instructor Note: Run through the example with the students and ask them to draw a decision tree based on the  "business rules" below in plain English (you can also show pseudo-code).
+> 
+
+We just reviewed types of machine learning models at a high level. 
+
+We mentioned decision trees in the context of supervised learning. 
+
+- Do you remember what  a supervised learning model is again?
+- Why are they called "trees"?
+
 
 ### **EXAMPLE**
 
@@ -495,14 +514,18 @@ The doctor has the following outcomes for the patients:
 
 	Y = {W1, W2, W3, W4, W5}
 	W1: cold
-	W2: quinsy
+	W2: tonsilitis
 	W3: flu
 	W4: pneumonia
 	W5: healthy
 
-It is required to find a model where `Y` depends on `X`. The rules below illustrate such a model:
+The doctor is required to find a diagnosis bases on the symptoms presented by the patient. 
 
-1. If `X1 < 37` , `Y`="is health".2. If `X1 ∈ [37,38.5]` and `X3`="there is no reddening of throat", then `Y=`"cold";3. If `X1 ∈ [37,38.5]` and `X3=`"there is reddening of throat", then `Y=`"quinsy";4. If `X1 > 38.5` and `X2=`"there is no cough", then `Y=`"flu";5. If `X1 > 38.5` and `X2=`"there is cough", then `Y=`"pneumonia";
+In data science terms, the doctor requires a model where `Y` (the diagnosis) depends on `X` (the symptoms). 
+
+The rules below illustrate such a model:
+
+1. If `X1 < 37` , `Y`="is health".2. If `X1 ∈ [37,38.5]` and `X3`="there is no reddening of throat", then `Y=`"cold";3. If `X1 ∈ [37,38.5]` and `X3=`"there is reddening of throat", then `Y=`"tonsilitis";4. If `X1 > 38.5` and `X2=`"there is no cough", then `Y=`"flu";5. If `X1 > 38.5` and `X2=`"there is cough", then `Y=`"pneumonia";
 
 Any new (unseen) patient can now be diagnosed using these rules.
 
