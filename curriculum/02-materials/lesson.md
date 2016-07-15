@@ -20,7 +20,7 @@ creator:
 ### STUDENT PRE-WORK
 *Before this lesson, you will need to:*
 - Bring a laptop with [Anaconda](https://www.continuum.io/downloads) installed. Scroll to your operating system version and click on the install button for ***Anaconda with Python 2.7***. Note: we'll be using Python version 2.7 in this workshop.
-- If you are using a PC, please install the [git for windows terminal](https://git-for-windows.github.io).
+- We will be using Jupyter Notebooks as the main IDE for the workshop. If you are using Anaconda (with Win, Mac or Linux) you are ready to go. 
 
 ### INSTRUCTOR PREP
 *Before this lesson, instructors will need to:*
