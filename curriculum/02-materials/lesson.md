@@ -354,6 +354,12 @@ Computers are very good at carrying out series of precisely defined instructions
 * An algorithm produces a defined set of **outputs**. It might output the larger of the two numbers, an all-uppercase version of a word, or a sorted version of the list of numbers.
 * An algorithm is **guaranteed to terminate** and **produce a result**, always stopping after a finite time. If an algorithm could potentially run forever, it wouldn’t be very useful because you might never get an answer.
 
+We can condense some of this information as follows:
+
+```
+Data In -> Change -> New Data Out
+```
+
 ### Discussion
 
 > Instructor Note:
