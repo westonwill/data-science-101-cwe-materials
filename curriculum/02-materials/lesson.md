@@ -318,21 +318,57 @@ Let us use Python to perform some analytics that will help us differentiate the 
 > Instructor Note: 
 > 
 > Before re-starting the class, check for any questions the students may have about the first part of the workshop
+> 
+
+# Discussion
+
+###_**What comes to mind when you hear the word algorithm?**_
+
+> Instructor Note:
+> 
+> Amass a list of different descriptions from students.
+> Use that to lead to the information below
 
 *Algorithm*: A set of steps to accomplish a task.
 
-Discussion: Ask students to list the steps they follow to achieve an every-day task, e.g. make cheese on toast, commute to work, make a cup of tea.
+Algorithms need to have their steps in the right order.
 
-*Computer Science Algorithm*:
+Think about an algorithm for getting dressed in the morning. 
 
-- Start with input data
-- Do (complex) calculations
-- Stop when the answer is found
+- What if you put on your coat before your jumper? 
+	- Your jumper would be on top of your coat and that would be silly! 
 
-Good algorithms are:
+When you write an algorithm the order of the instructions is very important.
 
-1. Correct
-2. Efficient
+In computer science, algorithms are a formal way of describing very precisely how to carry out certain computational tasks. 
+
+Computers are very good at carrying out series of precisely defined instructions, and algorithms can be seen as formal description of computer programs. 
+
+#### Criteria of a good algorithm
+
+* An algorithm is an **unambiguous description** that makes clear what has to be implemented. 
+	* In a recipe, a step such as “Bake until done” is ambiguous because it doesn’t explain what “done” means.
+	* A more explicit description such as “Bake until the cheese begins to bubble” is better. 
+	* In a computational algorithm, a step such as “Choose a large number” is vague: what is large? 1 million, 1 billion, or 100? Does the number have to be different each time, or can the same number be used on every run?
+* An algorithm expects a defined set of **inputs**. For example, it might require two numbers where both numbers are greater than zero. Or it might require a word, or a list of zero or more numbers.
+* An algorithm produces a defined set of **outputs**. It might output the larger of the two numbers, an all-uppercase version of a word, or a sorted version of the list of numbers.
+* An algorithm is **guaranteed to terminate** and **produce a result**, always stopping after a finite time. If an algorithm could potentially run forever, it wouldn’t be very useful because you might never get an answer.
+
+### Discussion
+
+> Instructor Note:
+> 
+> Divide the class in three groups and ask students to list the steps they follow to achieve an every-day task, e.g. make cheese on toast, commute to work, make a cup of tea.
+> Student need to break down steps into the smallest, discrete, sequential items etc
+
+What is the algorithm for:
+
+- Making cheese on toast
+- Commute to work
+- Make a cup of tea
+- Make a cake
+
+Break down the steps into the smallest discrete, sequential items and think of the logical order in which things have to be done to achive the task.
 
 
 ***
@@ -340,7 +376,66 @@ Good algorithms are:
 <a name="demo2"></a>
 ## Demo: Algorithms in Action (15 mins)
 
-Discuss a well-known computer science algorithm such as sorting. See the [Resources](#resources) Section for examples.
+Let us see how we can write a useful algorithm in python.
+
+#### An Example Algorithm
+
+**Problem**: Given a list of positive numbers, return the largest number on the list.
+
+**Inputs**: A list L of positive numbers. 
+
+This list must contain at least one number. (Asking for the largest number in a list of no numbers is not a meaningful question.)
+
+**Outputs**: A number n, which will be the largest number of the list.
+
+Algorithm:
+
+1. Set the variable `max` to 0.
+2. For each number `x` in the list `L`, compare it to `max`. If `x` is larger, set `max` to `x`.
+3. `max` is now set to the largest number in the list.
+
+Here is the Python implementation:
+
+```python
+def find_max(L):
+    max = 0
+    for x in L:
+        if x > max:
+            max = x
+    return max
+```
+
+#### Discussion
+
+Does the algorithm above meet the criteria for being an algorithm?
+
+<details>
+<summary>
+* Is it unambiguous? 
+</summary>
+Yes. Each step of the algorithm consists of primitive operations, and translating each step into Python code is very easy.
+</details>
+
+<details>
+<summary>
+* Does it have defined inputs and outputs? 
+</summary>
+Yes.
+</details>
+
+<details>
+<summary>
+* Is it guaranteed to terminate? 
+</summary>
+Yes. The list L is of finite length, so after looking at every element of the list the algorithm will stop.
+</details>
+
+<details>
+<summary>
+* Does it produce the correct result? 
+</summary>
+Yes. In a formal setting you would provide a careful proof of correctness. In the next section I’ll sketch a proof for an alternative solution to this problem.
+</details>
 
 ### Algorithms in the context of Machine Learning
 
