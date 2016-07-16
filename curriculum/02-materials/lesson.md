@@ -205,7 +205,7 @@ You are a junior data scientist at "X-company". Your boss asks you about the lea
 - **Parse Data**: What do you think this means? Why is it important?
 - **Mine and Refine**: Is the raw data enough? What calculations/transformation do you recommend doing? How do you determine the presence of outliers?
 - **Data model**: What attributes are would you include in the modelling stage? How do you know if the model is performing well?
-- **Results**: Who is your audience? What is the best way to present your resuls
+- **Results**: Who is your audience? What is the best way to present your results
 
 > Instructor Note:
 > 
@@ -213,7 +213,7 @@ You are a junior data scientist at "X-company". Your boss asks you about the lea
 > 
 > You can walk the student through the example all together in class. Use the discussion points below. 
 > 
-> **Check:** By this point, students should be able to understand out specific actions related to the steps in the data science workflow. To assess this you can then break the class into grpup and tackle a similar problem in their groups and share their results with the class:
+> **Check:** By this point, students should be able to understand out specific actions related to the steps in the data science workflow. To assess this you can then break the class into group and tackle a similar problem in their groups and share their results with the class:
 > 
 >  * Collect data around user retention, user actions within the product, potentially find data outside of company
 > * Extract aggregated values from raw data
@@ -374,7 +374,7 @@ What is the algorithm for:
 - Make a cup of tea
 - Make a cake
 
-Break down the steps into the smallest discrete, sequential items and think of the logical order in which things have to be done to achive the task.
+Break down the steps into the smallest discrete, sequential items and think of the logical order in which things have to be done to achieve the task.
 
 
 ***
@@ -596,7 +596,7 @@ Bearing in mind your self-assessment for these, what are you interested in learn
 ### Resources
 
 - Books:
-	- [**Data Analysis with Open Sourcee Tools**, P. K. Jannert](https://www.amazon.com/Data-Analysis-Open-Source-Tools/dp/0596802358?ie=UTF8&camp=1789&creative=9325&creativeASIN=0596802358)
+	- [**Data Analysis with Open Source Tools**, P. K. Jannert](https://www.amazon.com/Data-Analysis-Open-Source-Tools/dp/0596802358?ie=UTF8&camp=1789&creative=9325&creativeASIN=0596802358)
 	- [**Data Science for Business**, F. Provost and T. Fawcett](https://www.amazon.com/Data-Science-Business-Data-Analytic-Thinking/dp/1449361323?ie=UTF8&camp=1789&creative=9325&creativeASIN=1449361323)
 	- [**Pattern Recognition and Machine Learning**,
 C. Bishop](https://www.amazon.com/Pattern-Recognition-Learning-Information-Statistics/dp/0387310738?ie=UTF8&camp=1789&creative=9325&creativeASIN=0387310738)
