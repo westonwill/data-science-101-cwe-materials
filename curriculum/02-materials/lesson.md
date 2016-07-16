@@ -574,15 +574,93 @@ In this workshop, we've covered the following topics:
 <a name="takeaway"></a>
 ## Takeways: Learning Plan + Q&A (10 mins)
 
-#### What Should You Do Next?
+> Instructor Note:
+> 
+> Encourage the students to continue learning by producing a plan based on the skills discussed in [Part 1 - Introduction](#intro1).
+> 
+> Return to the student poll in the [Introduction](#intro1) and ask then what they want to do
+> 
+> Suggest some resources such as books, podcasts, GA courses, etc.
 
-Encourage the students to continue learning by producing a plan based on the skills discussed in [Part 1 - Introduction](#intro1).
+### What Should You Do Next?
 
-Suggest some resources such as books, podcasts, GA courses, etc.
+Remember the skills ans qualities of a data scientist?
+
+- Programming skills
+- Maths and Stats knowledge
+- Business acumen (substantive expertise)
+- Plus: Communication skills
+
+Bearing in mind your self-assessment for these, what are you interested in learning more about and getting a deeper understanding?
+
+### Resources
+
+- Books:
+	- [**Data Analysis with Open Sourcee Tools**, P. K. Jannert](https://www.amazon.com/Data-Analysis-Open-Source-Tools/dp/0596802358?ie=UTF8&camp=1789&creative=9325&creativeASIN=0596802358)
+	- [**Data Science for Business**, F. Provost and T. Fawcett](https://www.amazon.com/Data-Science-Business-Data-Analytic-Thinking/dp/1449361323?ie=UTF8&camp=1789&creative=9325&creativeASIN=1449361323)
+	- [**Pattern Recognition and Machine Learning**,
+C. Bishop](https://www.amazon.com/Pattern-Recognition-Learning-Information-Statistics/dp/0387310738?ie=UTF8&camp=1789&creative=9325&creativeASIN=0387310738)
+	- [**Data Science and Analytics with Python**, J Rogel-Salazar](https://www.crcpress.com/Data-Science-and-Analytics-with-Python/Rogel-Salazar/p/book/9781498742092)
+	- [An Introduction to Statistical Learning with Applications in R](http://www-bcf.usc.edu/~gareth/ISL/) (free PDF)
+	* [Elements of Statistical Learning](http://www-stat.stanford.edu/~tibs/ElemStatLearn/) (free PDF)
+	* [Think Stats](http://www.greenteapress.com/thinkstats/) (free PDF or HTML)
+	* [Mining of Massive Datasets](http://www.mmds.org/) (free PDF)
+
+- MOOCs
+	- Andrew Ng's Machine Learning Class on Coursera [link](https://www.coursera.org/course/ml)
+	- MIT's Artificial Intelligence course [link](http://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-034-artificial-intelligence-fall-2010/)
+	- Johns Hopkins' Data Analysis Methods [link](https://www.coursera.org/course/dataanalysis)
+	- Cal Tech's Learning from Data course [link](http://work.caltech.edu/lectures.html)
+
+- Blogs:
+	- FiveThirtyEight [link](http://fivethirtyeight.com)
+	- Data Science & Psychology [link](http://www.polipsych.com/)
+	- Inherent Uncertainty [link](http://www.inherentuncertainty.org/)
+
+- Twitter
+	- Hillary Mason ([@hmason](https://twitter.com/hmason)): Data Scientist in Residence at Accel and Scientist Emeritus at bitly.
+	- Dj Patil ([@dpatil](https://twitter.com/dpatil)): VP of Product at RelateIQ.
+	- Jeff Hammerbacher ([@hackingdata](https://twitter.com/hackingdata)): Founder and Chief Scientist at Cloudera and Assistant Professor at the Icahn School of Medicine at Mount Sinai.
+	- Peter Skomoroch ([@peteskomoroch](https://twitter.com/peteskomoroch)): Equity Partner at Data Collective, former Principal Data Scientist at LinkedIn.
+	- Drew Conway ([@drewconway](https://twitter.com/drewconway)): Head of Data at Project Florida
+
+
+- Aggregators
+
+	* [DataTau](http://www.datatau.com/): Like [Hacker News](https://news.ycombinator.com/), but for data
+	* [MachineLearning on reddit](http://www.reddit.com/r/MachineLearning/): Very active subreddit
+	* [Quora's Machine Learning section](http://www.quora.com/Machine-Learning): Lots of interesting Q&A
+	* [Quora's Data Science topic FAQ](https://www.quora.com/What-is-the-Data-Science-topic-FAQ)
+	* [KDnuggets](http://www.kdnuggets.com/): Data mining news, jobs, classes and more
+
+- Other Resources
+
+	* [Open Source Data Science Masters](https://github.com/datasciencemasters/go): Huge list of resources
+	* [Data Science Trello Board](https://trello.com/b/rbpEfMld/data-science): Another list of resources
+	* [The Hitchhiker's Guide to Python](http://docs.python-guide.org/en/latest/): Online guide to understanding Python and getting good at it
+	* [Python Reference](https://github.com/rasbt/python_reference): Python tips, tutorials, and more
+	* [videolectures.net](http://videolectures.net/Top/Computer_Science/): Tons of academic videos
+	* [Metacademy](http://www.metacademy.org/list): Quick summary of many machine learning terms, with links to resources for learning more
+	* [Terms in data science defined in one paragraph](https://github.com/rasbt/pattern_classification/blob/master/resources/data_glossary.md)
+
+### Data Science at GA
+
+At GA we offer a part time and immersive course on data science! 
+
+Some of the topics covered include:
+
+- linear and logistic regression
+- decision trees
+- natural language processing
+- time series analysis, and more! 
+
+However, to qualify for the course you'll need to brush up on some basic statistics and review python syntax fundamentals beforehand.
 
 #### Q & A
 
-> Instructor Notes: Encourage the students to share any thoughts or questions before closing the session.
+> Instructor Notes: 
+> 
+> Encourage the students to share any thoughts or questions before closing the session.
 
 ***
 
@@ -592,3 +670,5 @@ Suggest some resources such as books, podcasts, GA courses, etc.
 - [15 sorting algos in 6 min](https://www.youtube.com/watch?v=kPRA0W1kECg)
 - [Decision trees in scikit-learn](http://scikit-learn.org/stable/modules/tree.html)
 - [Decision trees tutorial](http://www.analyticsvidhya.com/blog/2016/04/complete-tutorial-tree-based-modeling-scratch-in-python/)
+
+For more resources see the list provided in the [Takeaways Section](#takeaway).
