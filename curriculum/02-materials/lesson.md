@@ -25,9 +25,10 @@ creator:
 ### INSTRUCTOR PREP
 *Before this lesson, instructors will need to:*
 
-- Review & modify lesson plan & slide deck as needed
+- Review & modify lesson plan & slide deck
 - Write learning objectives & relevant information on board
 - Review student roster
+- Prepare handout to distribute to students
 
 ### WORKSHOP AGENDA
 | TIMING  | TYPE  | TOPIC  |
