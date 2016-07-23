@@ -25,9 +25,10 @@ creator:
 ### INSTRUCTOR PREP
 *Before this lesson, instructors will need to:*
 
-- Review & modify lesson plan & slide deck as needed
+- Review & modify lesson plan & slide deck
 - Write learning objectives & relevant information on board
 - Review student roster
+- Prepare handout to distribute to students
 
 ### WORKSHOP AGENDA
 | TIMING  | TYPE  | TOPIC  |
@@ -525,7 +526,11 @@ In data science terms, the doctor requires a model where `Y` (the diagnosis) dep
 
 The rules below illustrate such a model:
 
-1. If `X1 < 37` , `Y`="is health".2. If `X1` has values between `[37,38.5]` and `X3`="there is no reddening of throat", then `Y=`"cold";3. If `X1` has values between `[37,38.5]` and `X3=`"there is reddening of throat", then `Y=`"tonsilitis";4. If `X1 > 38.5` and `X2=`"there is no cough", then `Y=`"flu";5. If `X1 > 38.5` and `X2=`"there is cough", then `Y=`"pneumonia";
+1. If `X1 < 37` , `Y`="is health".
+2. If `X1` has values between `[37,38.5]` and `X3`="there is no reddening of throat", then `Y=`"cold";
+3. If `X1` has values between `[37,38.5]` and `X3=`"there is reddening of throat", then `Y=`"tonsilitis";
+4. If `X1 > 38.5` and `X2=`"there is no cough", then `Y=`"flu";
+5. If `X1 > 38.5` and `X2=`"there is cough", then `Y=`"pneumonia";
 
 Any new (unseen) patient can now be diagnosed using these rules.
 
@@ -584,14 +589,14 @@ In this workshop, we've covered the following topics:
 
 ### What Should You Do Next?
 
-Remember the skills ans qualities of a data scientist?
+Remember the skills and qualities of a data scientist?
 
 - Programming skills
 - Maths and Stats knowledge
 - Business acumen (substantive expertise)
 - Plus: Communication skills
 
-Bearing in mind your self-assessment for these, what are you interested in learning more about and getting a deeper understanding?
+Bearing in mind your self-assessment for these, what are you interested in learning more about and getting a deeper understanding of?
 
 ### Resources
 
@@ -659,7 +664,6 @@ However, to qualify for the course you'll need to brush up on some basic statist
 #### Q & A
 
 > Instructor Notes: 
-> 
 > Encourage the students to share any thoughts or questions before closing the session.
 
 ***
