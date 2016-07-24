@@ -36,10 +36,10 @@ creator:
 | 10 min  | [Opening](#opening)  | Greetings + The GA Experience  |
 | 10 min  | [Introduction](#intro1)   | Why Data Science? What Can Data Science Do For Me? |
 | 5 min  | [Independent Practice](#ind-practice0)   | Data Science Skills|
-| 15 min  | [Demo](#demo1)  | Visualising the Data Science Workflow  |
+| 20 min  | [Demo](#demo1)  | Visualising the Data Science Workflow  |
 | 20 min  | [Guided Practice](#guided-practice1)  | Exploring the Data Science Toolkit |
 | 20 min  | [Independent Practice](#ind-practice1)  | Analyse Some Data! |
-| 5-10 min  | BREAK  |   |
+| 5 min  | BREAK  |   |
 | 15 min  | [Introduction](#intro2)   | What's an Algorithm, Anyway? |
 | 15 min  | [Demo](#demo2)  | Algorithms in Action  |
 | 20 min  | [Guided Practice](#guided-practice2)  | Thinking Logically  |
@@ -146,7 +146,7 @@ Before we dive in, a bit about you!
  
 ***
 
-<a name="intro1"></a>
+<a name="ind-practice0"></a>
 ## Independent Practice: Data Science Skills
 
 Create a table for the qualities of a data scientist and then rate yourself on each of these skills on a scale from 1-10. 
@@ -166,11 +166,14 @@ We will then use the data to show how simple stats in action are part of the dat
 ***
 
 <a name="demo1"></a>
-## Demo: Visualising the Data Science Workflow (15 mins)
+## Demo: Visualising the Data Science Workflow (20 mins)
 
 Walk through the steps of the Data Science Workflow.
 
-> Instructor Note: Make sure to emphasise that the workflow is an iterative process and not necessarily a linear one.
+> Instructor Note: 
+> 
+> 
+> Make sure to emphasise that the workflow is an iterative process and not necessarily a linear one.
 
 Data Science Workflow:
 
@@ -207,18 +210,20 @@ Data Science Workflow:
 	*  Deploy stable production-ready code
 	*  Retrain and validate models over time
 
+### Demo: Visualising the Data Science Workflow
 
-**Demo:** Ask the students to consider these steps in light of a real data science problem. For example:
+**_"What are the leading indicators that a user will make a new online purchase?"_** 
 
-**_"What are the leading indicators that a user will make a new online purchase?"_**
-
-You are a junior data scientist at "X-company". Your boss asks you about the leading indicators that a user will make a new online purchase. How would you go about solving this question?
+You are a junior data scientist at Amazon. Your boss asks you about the leading indicators that a user will make a new online purchase. How would you go about solving this question?
 
 - **Acquire Data**: What could we do first here? What are some considerations we should make?
 - **Parse Data**: What do you think this means? Why is it important?
 - **Mine and Refine**: Is the raw data enough? What calculations/transformation do you recommend doing? How do you determine the presence of outliers?
 - **Data model**: What attributes are would you include in the modelling stage? How do you know if the model is performing well?
 - **Results**: Who is your audience? What is the best way to present your results
+
+Take 10 minutes to work with the person next to you and talk through answers to these questions. Then, we'll take 5 minutes at the end of this period to come back and discuss.
+
 
 > Instructor Note:
 > 
