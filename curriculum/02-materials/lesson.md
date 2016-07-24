@@ -84,10 +84,20 @@ Before we dive in, a bit about you!
 
 > Note: Write workshop objectives on board before class
 
-- Why this topic matters (general relevance)
-- Why this topic rocks (interest/hook)
 
-> Note: Tailor these 2 points to student interests. Relate to their career info & goals students described during attendance.
+* What we’ll cover:
+	* Why Data Science & What it can do for me?
+	* Data Science skills
+	* Explore the Data Science Toolkit
+	* Analyse data
+	* Algorithms in action
+* Why this topic matters:
+	* Data Science is a sought-after skill 
+	* Using Python due to its increased popularity and simplicity
+* Why this topic rocks:
+	* Data Science opens up a door to a variety of opportunities
+	* Remember it has been dubbed the “Sexiest job of the 21st century”! 
+> Note: Tailor these points to student interests. Relate to their career info & goals students described during attendance.
 
 
 ***
