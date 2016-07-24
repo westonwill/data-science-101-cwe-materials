@@ -172,7 +172,6 @@ Walk through the steps of the Data Science Workflow.
 
 > Instructor Note: 
 > 
-> 
 > Make sure to emphasise that the workflow is an iterative process and not necessarily a linear one.
 
 Data Science Workflow:
@@ -227,7 +226,7 @@ Take 10 minutes to work with the person next to you and talk through answers to 
 
 > Instructor Note:
 > 
-> ### Suggested Answer
+> **Suggested Answer**
 > 
 > You can walk the student through the example all together in class. Use the discussion points below. 
 > 
@@ -269,7 +268,9 @@ In Python there are many related packages relevant to data science: pandas, Scik
 In this guided practice we are using a sample dataset, demonstrate how to carry out descriptive analytics using the `pandas` library we introduced above.
 
 > Instructor Note:
-> ### IDE to be used
+> 
+> IDE to be used
+> 
 > You can show the following commands and concepts using a python/ipython shell. We encourage you to use a **Jupyter notebook** in the second part of the workshop.
 
 ### Instructions for students
@@ -320,7 +321,7 @@ Let us use Python to perform some analytics that will help us differentiate the 
 
 > Instructor Note: 
 > 
-> ### Solutions
+> **Solutions**
 > 
 > You can find a Jupyter notebook with solutions to the independent practice exercise in [DataScience101_Part1_IndPractice_Solutions.ipynb](./code/DataScience101_Part1_IndPractice_Solutions.ipynb)
 
@@ -558,7 +559,8 @@ Any new (unseen) patient can now be diagnosed using these rules.
 
 > Instructor Note:
 > 
-> ### Activity
+> Activity
+> 
 > Using the dataset(s) from [Part 1 - Guided Practice](#guided-practice1) or [Part 1 - Independent Practice](#ind-practice1) implement a decision tree algorithm using scikit-learn.
 > 
 > Remind the students of that scikit-learn is, from the discusion from [Guided Practice](#guided-practice1)
