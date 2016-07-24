@@ -34,7 +34,8 @@ creator:
 | TIMING  | TYPE  | TOPIC  |
 |:-:|---|---|
 | 10 min  | [Opening](#opening)  | Greetings + The GA Experience  |
-| 15 min  | [Introduction](#intro1)   | Why Data Science? What Can Data Science Do For Me? |
+| 10 min  | [Introduction](#intro1)   | Why Data Science? What Can Data Science Do For Me? |
+| 5 min  | [Independent Practice](#ind-practice0)   | Data Science Skills|
 | 15 min  | [Demo](#demo1)  | Visualising the Data Science Workflow  |
 | 20 min  | [Guided Practice](#guided-practice1)  | Exploring the Data Science Toolkit |
 | 20 min  | [Independent Practice](#ind-practice1)  | Analyse Some Data! |
@@ -138,10 +139,19 @@ Before we dive in, a bit about you!
 
 > Instructor Note:
 >
-> ### ACTIVITY
+> ACTIVITY
 > 
 > Create a table for the qualities of a data scientist and ask students to self-rate in a scale form 1-5 (or 1-10). You can then use the data to show how simple stats in action are part of the data science workflow.
 
+ 
+***
+
+<a name="intro1"></a>
+## Independent Practice: Data Science Skills
+
+Create a table for the qualities of a data scientist and then rate yourself on each of these skills on a scale from 1-10. 
+
+We will then use the data to show how simple stats in action are part of the data science workflow.
 
 | Quality/Skill | Student 1 | Student 2 | ... | Average| 
 |:-:|---|---|---|---|
@@ -149,7 +159,9 @@ Before we dive in, a bit about you!
 | Maths | score 1 | score 2 | ... | Average| 
 | Stats | score 1 | score 2 | ... | Average| 
 
-
+> Instructor Note:
+> 
+> Check: With one minute left, have one student share their answer with the class.
 
 ***
 
