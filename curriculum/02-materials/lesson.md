@@ -303,7 +303,7 @@ To get a hold of the starter code, you'll need to download these materials.
 4. Locate the file called [DataScience101_Part1_GuidedPractice.ipynb](./code/DataScience101_Part1_GuidedPractice.ipynb) 
 5. Open Jupyter: in a terminal type
 `jupyter notebook`
-6. Navigate to the  folder where you have saved the file in step 1
+6. Navigate to the  folder where you have saved the file in step 3
 7. Open the file from the Jupyter interface
 8. Voilà, you are ready to type the commands we will cover below
 
@@ -341,6 +341,35 @@ You have received a sample data set with typical measures for the following thre
 - Versicolor
 
 Let us use Python to perform some analytics that will help us differentiate the three species later on in the modelling part of our workflow.
+
+> Instructor Note:
+> 
+> If you use Dropbox to get the material to your students follow these steps:
+
+The Dropbox link provided has a Zip file with the materials for the class. 
+
+1. Navigate to the location where you unzipped the file from the Dropbox link
+2. Locate the file called [DataScience101_Part1_IndPractice_Solutions.ipynb](./code/DataScience101_Part1_IndPractice_Solutions.ipynb)
+3. Open Jupyter: in a terminal type
+`jupyter notebook`
+4. Navigate to the  folder where you have saved the file in step 2
+5. Open the file from the Jupyter interface
+6. Voilà, you are ready to type the commands we will cover below
+
+> Instructor Note:
+> 
+> If you use GitHub to get the material to your students follow these steps:
+
+To get a hold of the starter code, you'll need to download these materials.
+
+1. Navigate to the location where you cloned or downloaded the GitHub repo for the class
+2. Locate the file called [DataScience101_Part1_IndPractice_Solutions.ipynb](./code/DataScience101_Part1_IndPractice_Solutions.ipynb)
+3. Open Jupyter: in a terminal type
+`jupyter notebook`
+4. Navigate to the folder where you have saved the file in step 1
+5. Open the file from the Jupyter interface
+6. Voilà, you are ready to type the commands we will cover below
+
 
 > Instructor Note: 
 > 
