@@ -277,13 +277,35 @@ In this guided practice we are using a sample dataset, demonstrate how to carry 
 ### Instructions for students
 We recommend using a Jupyter notebook for this guided practice. This makes it easier for all as it is homogenous for various environments (mac, win, linux).
 
-1. Save the file called [DataScience101_Part1_GuidedPractice.ipynb](./code/DataScience101_Part1_GuidedPractice.ipynb) in a known location in your file system
-2. Open Jupyter: in a terminal type
-`jupyter notebook`
-3. Navigate to the  folder where you have saved the file in step 1
-4. Open the file from the Jupyter interface
-5. Voilà, you are ready to type the commands we will cover below
+> Instructor Note:
+> 
+> If you use Dropbox to get the material to your students follow these steps:
 
+The Dropbox link provided has a Zip file with the materials for the class. 
+
+1. Unzip the file downloaded in a known location in yout file system
+2. Locate the file called [DataScience101_Part1_GuidedPractice.ipynb](./code/DataScience101_Part1_GuidedPractice.ipynb) 
+3. Open Jupyter: in a terminal type
+`jupyter notebook`
+4. Navigate to the  folder where you have saved the file in step 1
+5. Open the file from the Jupyter interface
+6. Voilà, you are ready to type the commands we will cover below
+
+> Instructor Note:
+> 
+> If you use GitHub to get the material to your students follow these steps:
+
+To get a hold of the starter code, you'll need to download these materials.
+
+1. First, visit this page: [https://github.com/generalassembly-studio/data-science-101-cwe-materials](https://github.com/generalassembly-studio/data-science-101-cwe-materials)
+2. Then, click on the "Clone or Download" button, and click "Download ZIP"
+3. Unzip the file downloaded in a known location in yout file system
+4. Locate the file called [DataScience101_Part1_GuidedPractice.ipynb](./code/DataScience101_Part1_GuidedPractice.ipynb) 
+5. Open Jupyter: in a terminal type
+`jupyter notebook`
+6. Navigate to the  folder where you have saved the file in step 1
+7. Open the file from the Jupyter interface
+8. Voilà, you are ready to type the commands we will cover below
 
 ***
 
