@@ -34,7 +34,7 @@ creator:
 | TIMING  | TYPE  | TOPIC  |
 |:-:|---|---|
 | 10 min  | [Opening](#opening)  | Greetings + The GA Experience  |
-| 10 min  | [Introduction](#intro1)   | Why Data Science? What Can Data Science Do For Me? |
+| 10 min  | [Introduction and Guided Practice](#intro1)   | Why Data Science? What Can Data Science Do For Me? |
 | 5 min  | [Independent Practice](#ind-practice0)   | Data Science Skills|
 | 20 min  | [Demo](#demo1)  | Visualising the Data Science Workflow  |
 | 20 min  | [Guided Practice](#guided-practice1)  | Exploring the Data Science Toolkit |
@@ -93,7 +93,7 @@ Before we dive in, a bit about you!
 ***
 
 <a name="intro1"></a>
-## Introduction: Why Data Science? What Can Data Science Do For Me? (15 mins)
+## Introduction: Why Data Science? What Can Data Science Do For Me? (15 mins - 5 min + 10 min)
 
 **Data Science**: A set of tools and techniques used to extract useful information from data.
 
@@ -101,14 +101,15 @@ Before we dive in, a bit about you!
 - The application of scientific techniques to practical problems.
 - A rapidly growing field.
 
-#### Qualities of a data scientist
+### Guided Practice: Qualities of a data scientist
 
 - Programming skills
 - Maths and Stats knowledge
 - Business acumen (substantive expertise)
 - Plus: Communication skills
 
-**Check:** 
+**Your Turn:**
+Let's talk through the following questions as a group: 
 
 - What do you think are the most important qualities for a data scientist?
 - Can you think of any other quality/skill we have not mentioned?
