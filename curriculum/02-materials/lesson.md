@@ -328,26 +328,12 @@ To get a hold of the starter code, you'll need to download these materials.
 > 
 > This can be a pair programming activity or done independently depending on the size of the class and on students abilities. 
 > 
-> In either case, ake sure that discussion of the results is done with the entire class.
+> In either case, make sure that discussion of the results is done with the entire class.
 > 
-
-### Instructions for students
-We recommend using a Jupyter notebook for this independent practice. This makes it easier for all as it is homogenous for various environments (mac, win, linux).
-
-1. Save the file called [DataScience101_Part1_IndPractice.ipynb](./code/DataScience101_Part1_IndPractice.ipynb) in a known location in your file system
-2. Open Jupyter: Open a terminal 
-
-	- **Mac**: Using spotlight search for "Terminal" 
-	- **Windows**: Click the "Start" button and type "cmd"
-	- In the terminal type: `jupyter notebook`
-	
-3. Navigate to the  folder where you have saved the file in step 1
-4. Open the file from the Jupyter interface
-5. Voilà, you are ready to type the commands we will cover below
 
 # Now You Try!
 
-You business intelligence manager at a fast moving startup that deals with flowers. You need to analyse some data for Iris flowers of three different species.
+You are a business intelligence manager at a fast moving startup that deals with flowers. You need to analyse some data for Iris flowers of three different species.
 
 You have received a sample data set with typical measures for the following three species for iris:
 
@@ -357,6 +343,8 @@ You have received a sample data set with typical measures for the following thre
 
 Let us use Python to perform some analytics that will help us differentiate the three species later on in the modelling part of our workflow.
 
+### Instructions for students
+
 > Instructor Note:
 > 
 > If you use Dropbox to get the material to your students follow these steps:
@@ -364,7 +352,7 @@ Let us use Python to perform some analytics that will help us differentiate the 
 The Dropbox link provided has a Zip file with the materials for the class. 
 
 1. Navigate to the location where you unzipped the file from the Dropbox link
-2. Locate the file called [DataScience101_Part1_IndPractice_Solutions.ipynb](./code/DataScience101_Part1_IndPractice_Solutions.ipynb)
+2. Locate the file called [DataScience101_Part1_IndPractice.ipynb](./code/DataScience101_Part1_IndPractice.ipynb)
 3. Open Jupyter: Open a terminal 
 
 	- **Mac**: Using spotlight search for "Terminal" 
@@ -375,14 +363,14 @@ The Dropbox link provided has a Zip file with the materials for the class.
 5. Open the file from the Jupyter interface
 6. Voilà, you are ready to type the commands we will cover below
 
-> Instructor Note:
+Instructor Note:
 > 
 > If you use GitHub to get the material to your students follow these steps:
 
 To get a hold of the starter code, you'll need to download these materials.
 
 1. Navigate to the location where you cloned or downloaded the GitHub repo for the class
-2. Locate the file called [DataScience101_Part1_IndPractice_Solutions.ipynb](./code/DataScience101_Part1_IndPractice_Solutions.ipynb)
+2. Locate the file called [[DataScience101_Part1_IndPractice.ipynb](./code/DataScience101_Part1_IndPractice.ipynb)
 3. Open Jupyter: Open a terminal 
 
 	- **Mac**: Using spotlight search for "Terminal" 
@@ -393,7 +381,7 @@ To get a hold of the starter code, you'll need to download these materials.
 5. Open the file from the Jupyter interface
 6. Voilà, you are ready to type the commands we will cover below
 
-
+> 
 > Instructor Note: 
 > 
 > **Solutions**
@@ -402,7 +390,7 @@ To get a hold of the starter code, you'll need to download these materials.
 
 ***
 
-> **BREAK** (5-10 mins)
+> **BREAK** (5 mins)
 
 ***
 
