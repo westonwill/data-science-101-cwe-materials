@@ -147,13 +147,6 @@ Let's talk through the following questions as a group:
 * Tell the machine how to learn from data
 * Create data products that deliver actionable insight
 * Tell relevant business stories from data
-
-> Instructor Note:
->
-> ACTIVITY
-> 
-> Create a table for the qualities of a data scientist and ask students to self-rate in a scale form 1-5 (or 1-10). You can then use the data to show how simple stats in action are part of the data science workflow.
-
  
 ***
 
