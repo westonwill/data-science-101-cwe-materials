@@ -285,8 +285,12 @@ The Dropbox link provided has a Zip file with the materials for the class.
 
 1. Unzip the file downloaded in a known location in yout file system
 2. Locate the file called [DataScience101_Part1_GuidedPractice.ipynb](./code/DataScience101_Part1_GuidedPractice.ipynb) 
-3. Open Jupyter: in a terminal type
-`jupyter notebook`
+3. Open Jupyter: Open a terminal 
+
+	- **Mac**: Using spotlight search for "Terminal" 
+	- **Windows**: Click the "Start" button and type "cmd"
+	- In the terminal type: `jupyter notebook`
+	
 4. Navigate to the  folder where you have saved the file in step 1
 5. Open the file from the Jupyter interface
 6. Voilà, you are ready to type the commands we will cover below
