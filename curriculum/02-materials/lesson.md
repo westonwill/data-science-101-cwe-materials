@@ -34,11 +34,12 @@ creator:
 | TIMING  | TYPE  | TOPIC  |
 |:-:|---|---|
 | 10 min  | [Opening](#opening)  | Greetings + The GA Experience  |
-| 15 min  | [Introduction](#intro1)   | Why Data Science? What Can Data Science Do For Me? |
-| 15 min  | [Demo](#demo1)  | Visualising the Data Science Workflow  |
+| 10 min  | [Introduction and Guided Practice](#intro1)   | Why Data Science? What Can Data Science Do For Me? |
+| 5 min  | [Independent Practice](#ind-practice0)   | Data Science Skills|
+| 20 min  | [Demo](#demo1)  | Visualising the Data Science Workflow  |
 | 20 min  | [Guided Practice](#guided-practice1)  | Exploring the Data Science Toolkit |
 | 20 min  | [Independent Practice](#ind-practice1)  | Analyse Some Data! |
-| 5-10 min  | BREAK  |   |
+| 5 min  | BREAK  |   |
 | 15 min  | [Introduction](#intro2)   | What's an Algorithm, Anyway? |
 | 15 min  | [Demo](#demo2)  | Algorithms in Action  |
 | 20 min  | [Guided Practice](#guided-practice2)  | Thinking Logically  |
@@ -83,16 +84,26 @@ Before we dive in, a bit about you!
 
 > Note: Write workshop objectives on board before class
 
-- Why this topic matters (general relevance)
-- Why this topic rocks (interest/hook)
 
-> Note: Tailor these 2 points to student interests. Relate to their career info & goals students described during attendance.
+* What we’ll cover:
+	* Why Data Science & What it can do for me?
+	* Data Science skills
+	* Explore the Data Science Toolkit
+	* Analyse data
+	* Algorithms in action
+* Why this topic matters:
+	* Data Science is a sought-after skill 
+	* Using Python due to its increased popularity and simplicity
+* Why this topic rocks:
+	* Data Science opens up a door to a variety of opportunities
+	* Remember it has been dubbed the “Sexiest job of the 21st century”! 
+> Note: Tailor these points to student interests. Relate to their career info & goals students described during attendance.
 
 
 ***
 
 <a name="intro1"></a>
-## Introduction: Why Data Science? What Can Data Science Do For Me? (15 mins)
+## Introduction: Why Data Science? What Can Data Science Do For Me? (15 mins - 5 min + 10 min)
 
 **Data Science**: A set of tools and techniques used to extract useful information from data.
 
@@ -100,14 +111,15 @@ Before we dive in, a bit about you!
 - The application of scientific techniques to practical problems.
 - A rapidly growing field.
 
-#### Qualities of a data scientist
+### Guided Practice: Qualities of a data scientist
 
 - Programming skills
 - Maths and Stats knowledge
 - Business acumen (substantive expertise)
 - Plus: Communication skills
 
-**Check:** 
+**Your Turn:**
+Let's talk through the following questions as a group: 
 
 - What do you think are the most important qualities for a data scientist?
 - Can you think of any other quality/skill we have not mentioned?
@@ -135,13 +147,15 @@ Before we dive in, a bit about you!
 * Tell the machine how to learn from data
 * Create data products that deliver actionable insight
 * Tell relevant business stories from data
+ 
+***
 
-> Instructor Note:
->
-> ### ACTIVITY
-> 
-> Create a table for the qualities of a data scientist and ask students to self-rate in a scale form 1-5 (or 1-10). You can then use the data to show how simple stats in action are part of the data science workflow.
+<a name="ind-practice0"></a>
+## Independent Practice: Data Science Skills
 
+Create a table for the qualities of a data scientist and then rate yourself on each of these skills on a scale from 1-10. 
+
+We will then use the data to show how simple stats in action are part of the data science workflow.
 
 | Quality/Skill | Student 1 | Student 2 | ... | Average| 
 |:-:|---|---|---|---|
@@ -149,16 +163,20 @@ Before we dive in, a bit about you!
 | Maths | score 1 | score 2 | ... | Average| 
 | Stats | score 1 | score 2 | ... | Average| 
 
-
+> Instructor Note:
+> 
+> Check: With one minute left, have one student share their answer with the class.
 
 ***
 
 <a name="demo1"></a>
-## Demo: Visualising the Data Science Workflow (15 mins)
+## Demo: Visualising the Data Science Workflow (20 mins)
 
 Walk through the steps of the Data Science Workflow.
 
-> Instructor Note: Make sure to emphasise that the workflow is an iterative process and not necessarily a linear one.
+> Instructor Note: 
+> 
+> Make sure to emphasise that the workflow is an iterative process and not necessarily a linear one.
 
 Data Science Workflow:
 
@@ -195,12 +213,11 @@ Data Science Workflow:
 	*  Deploy stable production-ready code
 	*  Retrain and validate models over time
 
+### Demo: Visualising the Data Science Workflow
 
-**Demo:** Ask the students to consider these steps in light of a real data science problem. For example:
+**_"What are the leading indicators that a user will make a new online purchase?"_** 
 
-**_"What are the leading indicators that a user will make a new online purchase?"_**
-
-You are a junior data scientist at "X-company". Your boss asks you about the leading indicators that a user will make a new online purchase. How would you go about solving this question?
+You are a junior data scientist at Amazon. Your boss asks you about the leading indicators that a user will make a new online purchase. How would you go about solving this question?
 
 - **Acquire Data**: What could we do first here? What are some considerations we should make?
 - **Parse Data**: What do you think this means? Why is it important?
@@ -208,9 +225,12 @@ You are a junior data scientist at "X-company". Your boss asks you about the lea
 - **Data model**: What attributes are would you include in the modelling stage? How do you know if the model is performing well?
 - **Results**: Who is your audience? What is the best way to present your results
 
+Take 10 minutes to work with the person next to you and talk through answers to these questions. Then, we'll take 5 minutes at the end of this period to come back and discuss.
+
+
 > Instructor Note:
 > 
-> ### Suggested Answer
+> **Suggested Answer**
 > 
 > You can walk the student through the example all together in class. Use the discussion points below. 
 > 
@@ -252,19 +272,51 @@ In Python there are many related packages relevant to data science: pandas, Scik
 In this guided practice we are using a sample dataset, demonstrate how to carry out descriptive analytics using the `pandas` library we introduced above.
 
 > Instructor Note:
-> ### IDE to be used
+> 
+> IDE to be used
+> 
 > You can show the following commands and concepts using a python/ipython shell. We encourage you to use a **Jupyter notebook** in the second part of the workshop.
 
 ### Instructions for students
 We recommend using a Jupyter notebook for this guided practice. This makes it easier for all as it is homogenous for various environments (mac, win, linux).
 
-1. Save the file called [DataScience101_Part1_GuidedPractice.ipynb](./code/DataScience101_Part1_GuidedPractice.ipynb) in a known location in your file system
-2. Open Jupyter: in a terminal type
-`jupyter notebook`
-3. Navigate to the  folder where you have saved the file in step 1
-4. Open the file from the Jupyter interface
-5. Voilà, you are ready to type the commands we will cover below
+> Instructor Note:
+> 
+> If you use Dropbox to get the material to your students follow these steps:
 
+The Dropbox link provided has a Zip file with the materials for the class. 
+
+1. Unzip the file downloaded in a known location in yout file system
+2. Locate the file called [DataScience101_Part1_GuidedPractice.ipynb](./code/DataScience101_Part1_GuidedPractice.ipynb) 
+3. Open Jupyter: Open a terminal 
+
+	- **Mac**: Using spotlight search for "Terminal" 
+	- **Windows**: Click the "Start" button and type "cmd"
+	- In the terminal type: `jupyter notebook`
+	
+4. Navigate to the  folder where you have saved the file in step 1
+5. Open the file from the Jupyter interface
+6. Voilà, you are ready to type the commands we will cover below
+
+> Instructor Note:
+> 
+> If you use GitHub to get the material to your students follow these steps:
+
+To get a hold of the starter code, you'll need to download these materials.
+
+1. First, visit this page: [https://github.com/generalassembly-studio/data-science-101-cwe-materials](https://github.com/generalassembly-studio/data-science-101-cwe-materials)
+2. Then, click on the "Clone or Download" button, and click "Download ZIP"
+3. Unzip the file downloaded in a known location in yout file system
+4. Locate the file called [DataScience101_Part1_GuidedPractice.ipynb](./code/DataScience101_Part1_GuidedPractice.ipynb) 
+5. Open Jupyter: Open a terminal 
+
+	- **Mac**: Using spotlight search for "Terminal" 
+	- **Windows**: Click the "Start" button and type "cmd"
+	- In the terminal type: `jupyter notebook`
+	
+6. Navigate to the  folder where you have saved the file in step 3
+7. Open the file from the Jupyter interface
+8. Voilà, you are ready to type the commands we will cover below
 
 ***
 
@@ -276,22 +328,12 @@ We recommend using a Jupyter notebook for this guided practice. This makes it ea
 > 
 > This can be a pair programming activity or done independently depending on the size of the class and on students abilities. 
 > 
-> In either case, ake sure that discussion of the results is done with the entire class.
+> In either case, make sure that discussion of the results is done with the entire class.
 > 
-
-### Instructions for students
-We recommend using a Jupyter notebook for this independent practice. This makes it easier for all as it is homogenous for various environments (mac, win, linux).
-
-1. Save the file called [DataScience101_Part1_IndPractice.ipynb](./code/DataScience101_Part1_IndPractice.ipynb) in a known location in your file system
-2. Open Jupyter: in a terminal type
-`jupyter notebook`
-3. Navigate to the  folder where you have saved the file in step 1
-4. Open the file from the Jupyter interface
-5. Voilà, you are ready to type the commands we will cover below
 
 # Now You Try!
 
-You business intelligence manager at a fast moving startup that deals with flowers. You need to analyse some data for Iris flowers of three different species.
+You are a business intelligence manager at a fast moving startup that deals with flowers. You need to analyse some data for Iris flowers of three different species.
 
 You have received a sample data set with typical measures for the following three species for iris:
 
@@ -301,15 +343,54 @@ You have received a sample data set with typical measures for the following thre
 
 Let us use Python to perform some analytics that will help us differentiate the three species later on in the modelling part of our workflow.
 
+### Instructions for students
+
+> Instructor Note:
+> 
+> If you use Dropbox to get the material to your students follow these steps:
+
+The Dropbox link provided has a Zip file with the materials for the class. 
+
+1. Navigate to the location where you unzipped the file from the Dropbox link
+2. Locate the file called [DataScience101_Part1_IndPractice.ipynb](./code/DataScience101_Part1_IndPractice.ipynb)
+3. Open Jupyter: Open a terminal 
+
+	- **Mac**: Using spotlight search for "Terminal" 
+	- **Windows**: Click the "Start" button and type "cmd"
+	- In the terminal type: `jupyter notebook`
+	
+4. Navigate to the  folder where you have saved the file in step 2
+5. Open the file from the Jupyter interface
+6. Voilà, you are ready to type the commands we will cover below
+
+Instructor Note:
+> 
+> If you use GitHub to get the material to your students follow these steps:
+
+To get a hold of the starter code, you'll need to download these materials.
+
+1. Navigate to the location where you cloned or downloaded the GitHub repo for the class
+2. Locate the file called [[DataScience101_Part1_IndPractice.ipynb](./code/DataScience101_Part1_IndPractice.ipynb)
+3. Open Jupyter: Open a terminal 
+
+	- **Mac**: Using spotlight search for "Terminal" 
+	- **Windows**: Click the "Start" button and type "cmd"
+	- In the terminal type: `jupyter notebook`
+	
+4. Navigate to the folder where you have saved the file in step 1
+5. Open the file from the Jupyter interface
+6. Voilà, you are ready to type the commands we will cover below
+
+> 
 > Instructor Note: 
 > 
-> ### Solutions
+> **Solutions**
 > 
 > You can find a Jupyter notebook with solutions to the independent practice exercise in [DataScience101_Part1_IndPractice_Solutions.ipynb](./code/DataScience101_Part1_IndPractice_Solutions.ipynb)
 
 ***
 
-> **BREAK** (5-10 mins)
+> **BREAK** (5 mins)
 
 ***
 
@@ -483,9 +564,9 @@ Based on these attributes you can find similarities and differences that provide
 You can then take action and make an offer, or recommend a product specifically to these segments.
 
 - Some supervised learning algorithms include:
-	- logistic regression
 	- clustering 
 	- anomaly detection
+	- principal component analysis
 
 ***
 
@@ -515,7 +596,7 @@ The doctor has the following outcomes for the patients:
 
 	Y = {W1, W2, W3, W4, W5}
 	W1: cold
-	W2: tonsilitis
+	W2: tonsillitis
 	W3: flu
 	W4: pneumonia
 	W5: healthy
@@ -526,11 +607,11 @@ In data science terms, the doctor requires a model where `Y` (the diagnosis) dep
 
 The rules below illustrate such a model:
 
-1. If `X1 < 37` , `Y`="is health".
-2. If `X1` has values between `[37,38.5]` and `X3`="there is no reddening of throat", then `Y=`"cold";
-3. If `X1` has values between `[37,38.5]` and `X3=`"there is reddening of throat", then `Y=`"tonsilitis";
-4. If `X1 > 38.5` and `X2=`"there is no cough", then `Y=`"flu";
-5. If `X1 > 38.5` and `X2=`"there is cough", then `Y=`"pneumonia";
+1. If `X1 < 37` , `Y`="is healthy".
+2. If `X1` has values between `[37,38.5]` and `X3`="there is no reddening of throat", then `Y`="cold";
+3. If `X1` has values between `[37,38.5]` and `X3`="there is reddening of throat", then `Y`="tonsillitis";
+4. If `X1 > 38.5` and `X2`="there is no cough", then `Y=`"flu";
+5. If `X1 > 38.5` and `X2`="there is cough", then `Y`="pneumonia";
 
 Any new (unseen) patient can now be diagnosed using these rules.
 
@@ -541,7 +622,8 @@ Any new (unseen) patient can now be diagnosed using these rules.
 
 > Instructor Note:
 > 
-> ### Activity
+> Activity
+> 
 > Using the dataset(s) from [Part 1 - Guided Practice](#guided-practice1) or [Part 1 - Independent Practice](#ind-practice1) implement a decision tree algorithm using scikit-learn.
 > 
 > Remind the students of that scikit-learn is, from the discusion from [Guided Practice](#guided-practice1)
@@ -626,6 +708,7 @@ C. Bishop](https://www.amazon.com/Pattern-Recognition-Learning-Information-Stati
 	- Hillary Mason ([@hmason](https://twitter.com/hmason)): Data Scientist in Residence at Accel and Scientist Emeritus at bitly.
 	- Dj Patil ([@dpatil](https://twitter.com/dpatil)): VP of Product at RelateIQ.
 	- Jeff Hammerbacher ([@hackingdata](https://twitter.com/hackingdata)): Founder and Chief Scientist at Cloudera and Assistant Professor at the Icahn School of Medicine at Mount Sinai.
+	- J Rogel-Salazar ([@quantum\_tunnel](https://twitter.com/quantum_tunnel)): Data scientist at IBM and GA instructor
 	- Peter Skomoroch ([@peteskomoroch](https://twitter.com/peteskomoroch)): Equity Partner at Data Collective, former Principal Data Scientist at LinkedIn.
 	- Drew Conway ([@drewconway](https://twitter.com/drewconway)): Head of Data at Project Florida
 
