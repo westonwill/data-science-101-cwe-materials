@@ -708,6 +708,7 @@ C. Bishop](https://www.amazon.com/Pattern-Recognition-Learning-Information-Stati
 	- Hillary Mason ([@hmason](https://twitter.com/hmason)): Data Scientist in Residence at Accel and Scientist Emeritus at bitly.
 	- Dj Patil ([@dpatil](https://twitter.com/dpatil)): VP of Product at RelateIQ.
 	- Jeff Hammerbacher ([@hackingdata](https://twitter.com/hackingdata)): Founder and Chief Scientist at Cloudera and Assistant Professor at the Icahn School of Medicine at Mount Sinai.
+	- J Rogel-Salazar ([@quantum\_tunnel](https://twitter.com/quantum_tunnel)): Data scientist at IBM and GA instructor
 	- Peter Skomoroch ([@peteskomoroch](https://twitter.com/peteskomoroch)): Equity Partner at Data Collective, former Principal Data Scientist at LinkedIn.
 	- Drew Conway ([@drewconway](https://twitter.com/drewconway)): Head of Data at Project Florida
 
