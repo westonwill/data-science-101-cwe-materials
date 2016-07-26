@@ -4,14 +4,15 @@ The following information is provided to help contextualize this workshop by des
 
 ---
 
-## Prerequisite(s)
+## Pre-requisite(s)
 
-In order to make sure that students are best prepared for this workshop, we suggest recommending the following prerequisites. Students should have some basic foundations in the following areas:
+In order to make sure that students are best prepared for this workshop, we suggest the following pre-requisites. Students should have some basic foundations in:
 
-* X
-* Y
-* Z
+* Algebra or Statistics
+* Data Analysis
+* Computer Literacy
 
+Note: Students will need to bring a laptop with [Anaconda installed, using Python 2.7](https://www.continuum.io/downloads).
 
 ## Follow-up Recommendations
 
