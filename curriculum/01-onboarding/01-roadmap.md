@@ -4,11 +4,11 @@ The following information is provided to help contextualize this workshop by des
 
 ---
 
-## Pre-requisite(s)
+## Prerequisite(s)
 
-In order to make sure that students are best prepared for this workshop, we suggest the following pre-requisites. Students should have some basic foundations in:
+In order to make sure that students are best prepared for this workshop, we suggest the following prerequisites. Students should have some basic foundations in:
 
-* Algebra or Statistics
+* Upper Level Algebra
 * Data Analysis
 * Computer Literacy
 
@@ -18,9 +18,9 @@ Note: Students will need to bring a laptop with [Anaconda installed, using Pytho
 
 In order to provide students with continued pathways for growth, we suggest using the following resources to create a custom learning plan, based on your students' goals and interests:
 
-* X
-* Y
-* Z
+* Python Programming
+* Algorithms
+* Statistics
 
 ---
 
